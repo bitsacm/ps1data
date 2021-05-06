@@ -29,7 +29,7 @@ const SearchBar = (props) => {
                     children={<FiSearch color='#aaa' size='25px'/>}
                 />
                 <Input
-                    placeholder="Search"
+                    placeholder="Eg: Machine Learning"
                     variant="filled"
                     height="42px"
                     onChange={(e) => props.onSearch(e.target.value)}
