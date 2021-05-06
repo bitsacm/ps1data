@@ -12,6 +12,6 @@ const industries = {
     Steel: 'yellow',
     Others: '',
     '': ''
-  }
+}
 
-  module.exports = industries
+export default industries

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import data from '../data/ps1_data.json'
 
 import Station from './Station'
@@ -14,14 +14,47 @@ import {
 } from "@chakra-ui/react"
 
 const List = (props) => {
-    let idx = 0
-    const stationComps = props.stations.map((station, idx) => (
-        <Station data={station} key={idx++} idx={idx}/>
-    ))
+    const [interests, setInterests] = useState({})
+    const { industryFilters, branchFilters } = props
+    const stationComps = []
+
+    useEffect(() => {
+        let interesting = JSON.parse(localStorage.getItem('interesting'))
+        if (!interesting) interesting = {}
+
+        setInterests(interesting)
+    }, [])
+
+    if (Object.keys(industryFilters).length > 0 && Object.keys(branchFilters).length > 0) {
+        // console.log(industryFilters)
+        let idx = 0
+        props.stations.forEach((station) => {
+            if (industryFilters[station.industry].selected
+                && station.branches.some((branch) => branchFilters[branch]?.selected
+                || (branch.toUpperCase() === 'ANY') && branchFilters['Any'].selected)) {
+                
+                if (props.interestingToggle) {
+                    if (!interests[station.stationId]) {
+                        return
+                    }
+                }
+                stationComps.push(
+                    <Station 
+                        data={station} 
+                        key={idx} 
+                        idx={idx++}
+                        interesting={interests[station.stationId]}
+                        interestingToggle={props.interestingToggle}
+                        setInterests={setInterests}
+                    />
+                )
+            }
+        })
+    }
 
     return (
         <Box
-            // bg="tomato"          
+            bg="tomato"          
             display="flex"
             height="100%"
             position="relative"
@@ -29,12 +62,15 @@ const List = (props) => {
             width="1200px"
         >
             <Box
-                width="100%"
-                display="flex"
-                flexDirection="column"
+                bg="green"
+                width="50%"
+                // display="flex"
+                // flexDirection="column"
                 position="absolute"
             >
-                <Table>
+                <Table
+
+                >
                     <TableCaption>PS-1 Stations</TableCaption>
                     <Thead>
                         <Tr>
@@ -42,7 +78,7 @@ const List = (props) => {
                             <Th>Name</Th>
                             <Th>Industry</Th>
                             <Th>Branches</Th>
-                            {/* <Th>Location</Th> */}
+                            <Th>Interesting</Th>
                         </Tr>
                     </Thead>
                     <Tbody>

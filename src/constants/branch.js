@@ -1,6 +1,7 @@
 const branches = {
     Any: 'gray',
     AA: 'orange',
+    AB: 'orange',
     A1: 'yellow',
     A2: 'pink',
     A3: 'purple',
@@ -12,7 +13,17 @@ const branches = {
     B2: 'yellow',
     B3: 'yellow',
     B4: 'pink',
-    B5: 'cyan'
+    B5: 'cyan',
+    C6: 'yellow'
 }
+
+export const branchOpts = Object.keys(branches).map((key) => {
+    return {
+        value: key,
+        label: key,
+        color: branches[key],
+        selected: true
+    }
+})
 
 export default branches
