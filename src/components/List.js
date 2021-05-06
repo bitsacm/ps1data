@@ -23,7 +23,7 @@ const List = (props) => {
         if (!interesting) interesting = {}
 
         setInterests(interesting)
-    }, [])
+    }, [props.interestingToggle])
 
     if (Object.keys(industryFilters).length > 0 && Object.keys(branchFilters).length > 0) {
         // console.log(industryFilters)

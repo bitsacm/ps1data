@@ -17,7 +17,7 @@ import {
     useDisclosure,
     HStack,
     CloseButton
-  } from "@chakra-ui/react"
+} from "@chakra-ui/react"
 
 
 import Project from './Project'
@@ -57,13 +57,14 @@ const Station = (props) => {
         } else {
             delete interesting[stationId]
         }
+        // props.setInterests(interesting)
         localStorage.setItem('interesting', JSON.stringify(interesting))
         return interesting
     }
 
     function removeInteresting(stationId) {
         const interesting = handleInterestingToggle(stationId, false)
-        props.setInterests(interesting)
+        // props.setInterests(interesting)
     }
 
     return (
