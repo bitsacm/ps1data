@@ -17,7 +17,7 @@ const Filters = (props) => {
             boxSizing='border-box'
             padding='8px'
         >
-            Bruh
+            
         </Box>
     )
 }

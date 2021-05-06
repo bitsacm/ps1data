@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useCallback } from 'react'
 import {
     Box,
     Input,
@@ -9,6 +9,7 @@ import {
 
 import { FiSearch } from 'react-icons/fi'
 import { FaSearch } from 'react-icons/fa'
+
 
 const SearchBar = (props) => {
     const Icon = (
@@ -31,6 +32,8 @@ const SearchBar = (props) => {
                     placeholder="Search"
                     variant="filled"
                     height="42px"
+                    onChange={(e) => props.onSearch(e.target.value)}
+                    // value={props.value}
                 />
             </InputGroup>
         </Box>
