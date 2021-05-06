@@ -54,18 +54,17 @@ const List = (props) => {
 
     return (
         <Box
-            bg="tomato"          
+            // bg="tomato"          
             display="flex"
             height="100%"
             position="relative"
             overflow="auto"
-            width="1200px"
+            // width="1200px"
         >
             <Box
-                bg="green"
-                width="50%"
-                // display="flex"
-                // flexDirection="column"
+                // bg="green"
+                display="flex"
+                flexDirection="column"
                 position="absolute"
             >
                 <Table

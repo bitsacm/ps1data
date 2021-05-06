@@ -7,11 +7,12 @@ import MultiSelect from './MultiSelect'
 const Filters = (props) => {
     return (
         <Box
-            mt="80px"
-            width="300px"
+            // mt="80px"
+            minWidth="250px"
+            // width="100%"
             // height="600px"
             flex="1 1 auto"
-            position="absolute"
+            // position="absolute"
             bg="gray.50"
             borderRadius="10px"
             boxShadow='md'

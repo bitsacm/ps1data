@@ -1,6 +1,5 @@
 import React, { useState, useCallback, useEffect } from 'react'
-import _ from 'lodash'
-import update from 'immutability-helper'
+import _, { transform } from 'lodash'
 import data from './data/ps1_data.json'
 import { Box, Flex } from '@chakra-ui/layout';
 import Fuse from 'fuse.js'
@@ -10,6 +9,7 @@ import Filters from './components/Filters'
 import SearchBar from './components/SearchBar';
 import industryColors from './constants/industry'
 import branchColors from './constants/branch'
+import Logo from './assets/logo.png'
 
 const SEARCH_DEBOUNCE_PERIOD = 10
 
@@ -103,15 +103,24 @@ function App() {
             justifyContent="center"
         >
             <Box
-                position="relative"
                 display="flex"
-                flexDirection="column"
                 height="100vh"
-                bg='yellow'
             >
                 <Box
-                    bg='aqua'
+                    width='25%'
                 >
+                    <Box
+                        height='90px'
+                    >
+                        <img
+                            src={Logo}
+                            style={{
+                                maxHeight: '100px',
+                                marginTop: '7px',
+                                transform: 'translateY(0px)'
+                            }}
+                        />
+                    </Box>
                     <Filters
                         industryOpts={industries}
                         branchOpts={branches}
@@ -120,15 +129,13 @@ function App() {
                     />
                 </Box>
                 <Box
-                    ml="350px"
-                    position="relative"
                     flex="1 1 auto"
-                    minWidth="800px"
                     display="flex"
                     flexDirection="column"
+                    ml='32px'
                 >
                     <Box
-                        width="100%"
+                        width='1000px'
                         height="80px"
                         display="flex"
                         alignItems="center"
