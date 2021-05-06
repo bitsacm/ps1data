@@ -73,6 +73,13 @@ const Filters = (props) => {
                     onChange={(e) => props.setInterestingToggle(e.target.checked)}
                 />
             </Box>
+            <Box
+                fontSize='12px'
+                color='gray.500'
+                mt='16px'
+            >
+                Toggling this could be a little slow :(
+            </Box>
         </Box>
     )
 }
