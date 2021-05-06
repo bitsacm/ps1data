@@ -3,6 +3,8 @@ import _, { transform } from 'lodash'
 import data from './data/ps1_data.json'
 import { Box, Flex } from '@chakra-ui/layout';
 import Fuse from 'fuse.js'
+import { Star } from 'react-github-buttons'
+import GitHubButton from 'react-github-btn'
 
 import List from './components/List';
 import Filters from './components/Filters'
@@ -22,6 +24,7 @@ function App() {
     const [interestingToggle, setInterestingToggle] = useState(false)
 
     useEffect(() => {
+        console.log('We wrote quite a bit of spaghetti code to finish this in a single day, of course you can hack us :/')
         const industryOpts = {}
         Object.keys(industryColors).forEach((key) => {
             industryOpts[key] = {
@@ -127,6 +130,19 @@ function App() {
                         toggleSelect={toggleSelect}
                         setInterestingToggle={setInterestingToggle}
                     />
+                    <Box
+                        marginTop='16px'
+                    >
+
+                        <GitHubButton
+                            href="https://github.com/bitsacm/ps1data"
+                            data-icon="octicon-star" 
+                            data-size="large" 
+                            data-show-count="true" 
+                            aria-label="Star bitsacm/ps1data on GitHub">
+                                Star this on GitHub!
+                        </GitHubButton>
+                    </Box>
                 </Box>
                 <Box
                     flex="1 1 auto"

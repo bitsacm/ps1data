@@ -5967,6 +5967,11 @@ getpass@^0.1.1:
   dependencies:
     assert-plus "^1.0.0"
 
+github-buttons@^2.8.0:
+  version "2.17.0"
+  resolved "https://registry.yarnpkg.com/github-buttons/-/github-buttons-2.17.0.tgz#512e92570f0ada93cf71b645b2a162ce4b10ab11"
+  integrity sha512-NW860y597KUab+00I6MQ0z1xWD/yNYa/XT/bLY2kL/Z2Sf1NsZxC2mZ3W9DIpVytnw8vXnv1eCFahmGwC51sFQ==
+
 glob-parent@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-3.1.0.tgz#9e6af6299d8d3bd2bd40430832bd113df906c5ae"
@@ -9567,7 +9572,7 @@ prompts@2.4.0, prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@^15.5.10, prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -9810,6 +9815,25 @@ react-focus-lock@2.5.0:
     react-clientside-effect "^1.2.2"
     use-callback-ref "^1.2.1"
     use-sidecar "^1.0.1"
+
+react-github-btn@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-github-btn/-/react-github-btn-1.2.0.tgz#464066f999a77c0eed27980260601b51cbe15614"
+  integrity sha512-/b2TGTeek5Ky+KtuP5BxOaXgb1FGhbwgZNI6rkwkGk7+xtCtsNMkdchOcCnC3qU1JGTWPKzYZWpPBIouVhXAoQ==
+  dependencies:
+    github-buttons "^2.8.0"
+
+react-github-button@^0.1.11:
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/react-github-button/-/react-github-button-0.1.11.tgz#fc61e1f1e1371169d3618c1ba37306ba04081e56"
+  integrity sha1-/GHh8eE3EWnTYYwbo3MGugQIHlY=
+  dependencies:
+    prop-types "^15.5.10"
+
+react-github-buttons@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/react-github-buttons/-/react-github-buttons-0.5.0.tgz#f7ee1c934ed7410ea63c5fd2feacfc4be294dce2"
+  integrity sha512-Z062cVnNkCvvE3Hm0T+FHr6pjGvE0PKL9Vzl0JDCH7+vc7fuvT1yfYyEe1GBYGyvxna4HSJ8bNexvVl/N8wlhQ==
 
 react-icons@^4.2.0:
   version "4.2.0"
