@@ -64,6 +64,7 @@ const Station = (props) => {
 
     function removeInteresting(stationId) {
         const interesting = handleInterestingToggle(stationId, false)
+        props.setNumInteresting((new Date()).getTime())
         props.setInterests(interesting)
     }
 

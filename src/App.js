@@ -5,6 +5,8 @@ import { Box, Flex } from '@chakra-ui/layout';
 import Fuse from 'fuse.js'
 import { Star } from 'react-github-buttons'
 import GitHubButton from 'react-github-btn'
+import { CSVLink } from 'react-csv'
+import { Button } from '@chakra-ui/react'
 
 import List from './components/List';
 import Filters from './components/Filters'
@@ -22,6 +24,7 @@ function App() {
     const [industries, setIndustries] = useState({})
     const [branches, setBranches] = useState({})
     const [interestingToggle, setInterestingToggle] = useState(false)
+    const [numInteresting, setNumInteresting] = useState(0)
 
     useEffect(() => {
         console.log('We wrote quite a bit of spaghetti code to finish this in a single day, of course you can hack us :/')
@@ -100,6 +103,53 @@ function App() {
         }
     }
 
+    function convertProjectsToString(projects) {
+        let result = ''
+        projects.forEach((proj, idx) => {
+            result += `
+Project #${idx+1} 
+${proj.title}
+
+${proj.description}
+
+Branches: ${proj.preferredDisciplines.join(', ')}\n\n\n
+            `
+        })
+
+        return result
+    }
+
+    function exportCsv() {
+        if (Object.keys(industries).length > 0 && Object.keys(branches).length > 0) {
+            const data = []
+            data.push(['name', 'industry', 'branches', 'projects'])
+            const interests = JSON.parse(localStorage.getItem('interesting'))
+            stations.forEach((station) => {
+                if (industries[station.industry].selected
+                    && station.branches.some((branch) => branches[branch]?.selected
+                    || (branch.toUpperCase() === 'ANY') && branches['Any'].selected)) {
+                    
+                    if (interestingToggle) {
+                        if (!interests[station.stationId]) {
+                            return
+                        }
+                    }
+    
+                    data.push([station.name, station.industry, station.branches, convertProjectsToString(station.projects)])
+                }
+            })
+    
+            return data
+        } else {
+            return []
+        }
+    }
+
+    
+    const csvData = exportCsv()
+    console.log('Data', csvData)
+
+
     return (
         <Flex
             height="100vh"
@@ -160,6 +210,19 @@ function App() {
                         <SearchBar
                             onSearch={onSearchValueChange}
                         />
+                        <Button
+                            variant='ghost'
+                            colorScheme='twitter'
+                            marginLeft='8px'
+                        >
+                            
+                            <CSVLink
+                                filename={'bitsacm-ps1.csv'}
+                                data={csvData}
+                            >
+                                Export
+                            </CSVLink>
+                        </Button>
                     </Box>
                     <Box
                         height="100%"
@@ -172,6 +235,7 @@ function App() {
                             industryFilters={industries}
                             branchFilters={branches}
                             interestingToggle={interestingToggle}
+                            setNumInteresting={setNumInteresting}
                         />
                     </Box>
 

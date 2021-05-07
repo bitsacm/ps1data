@@ -46,6 +46,7 @@ const List = (props) => {
                         interesting={interests[station.stationId]}
                         interestingToggle={props.interestingToggle}
                         setInterests={setInterests}
+                        setNumInteresting={props.setNumInteresting}
                     />
                 )
             }

@@ -4,7 +4,8 @@ import {
     Input,
     Stack,
     InputGroup,
-    InputLeftElement
+    InputLeftElement,
+    Button
 } from "@chakra-ui/react"
 
 import { FiSearch } from 'react-icons/fi'
@@ -21,6 +22,8 @@ const SearchBar = (props) => {
     return (
         <Box
             width="70%"
+            display='flex'
+            alignItems='center'
         >
             <InputGroup>
                 <InputLeftElement
