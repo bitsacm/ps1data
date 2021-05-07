@@ -5,7 +5,6 @@ import { Box, Flex } from '@chakra-ui/layout';
 import Fuse from 'fuse.js'
 import { Star } from 'react-github-buttons'
 import GitHubButton from 'react-github-btn'
-
 import List from './components/List';
 import Filters from './components/Filters'
 import SearchBar from './components/SearchBar';
