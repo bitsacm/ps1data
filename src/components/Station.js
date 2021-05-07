@@ -98,7 +98,7 @@ const Station = (props) => {
                             </Box>
                         :   <Switch
                                 onChange={(e) => handleInterestingToggle(stationId, e.target.checked)}
-                                isChecked={props.interesting}
+                                defaultChecked={props.interesting}
                             />
                     }
                 </Td>

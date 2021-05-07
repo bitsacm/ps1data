@@ -41,7 +41,7 @@ const List = (props) => {
                 stationComps.push(
                     <Station 
                         data={station} 
-                        key={idx} 
+                        key={station.stationId} 
                         idx={idx++}
                         interesting={interests[station.stationId]}
                         interestingToggle={props.interestingToggle}
