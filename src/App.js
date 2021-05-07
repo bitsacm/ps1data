@@ -17,7 +17,6 @@ import {
     PopoverArrow,
     PopoverCloseButton,
 } from '@chakra-ui/react'
-
 import List from './components/List';
 import Filters from './components/Filters'
 import SearchBar from './components/SearchBar';
