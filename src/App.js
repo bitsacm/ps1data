@@ -6,7 +6,17 @@ import Fuse from 'fuse.js'
 import { Star } from 'react-github-buttons'
 import GitHubButton from 'react-github-btn'
 import { CSVLink } from 'react-csv'
-import { Button } from '@chakra-ui/react'
+import { 
+    Button,
+    Popover,
+    PopoverTrigger,
+    PopoverContent,
+    PopoverHeader,
+    PopoverBody,
+    PopoverFooter,
+    PopoverArrow,
+    PopoverCloseButton,
+} from '@chakra-ui/react'
 
 import List from './components/List';
 import Filters from './components/Filters'
@@ -25,6 +35,7 @@ function App() {
     const [branches, setBranches] = useState({})
     const [interestingToggle, setInterestingToggle] = useState(false)
     const [numInteresting, setNumInteresting] = useState(0)
+    const [csvData, setCsvData] = useState([])
 
     useEffect(() => {
         console.log('We wrote quite a bit of spaghetti code to finish this in a single day, of course you can hack us :/')
@@ -120,6 +131,7 @@ Branches: ${proj.preferredDisciplines.join(', ')}\n\n\n
     }
 
     function exportCsv() {
+        console.log('Generating CSV')
         if (Object.keys(industries).length > 0 && Object.keys(branches).length > 0) {
             const data = []
             data.push(['name', 'industry', 'branches', 'projects'])
@@ -145,9 +157,6 @@ Branches: ${proj.preferredDisciplines.join(', ')}\n\n\n
         }
     }
 
-    
-    const csvData = exportCsv()
-    console.log('Data', csvData)
 
 
     return (
@@ -210,19 +219,40 @@ Branches: ${proj.preferredDisciplines.join(', ')}\n\n\n
                         <SearchBar
                             onSearch={onSearchValueChange}
                         />
-                        <Button
-                            variant='ghost'
-                            colorScheme='twitter'
-                            marginLeft='8px'
+                        <Popover
+                            placement='right-end'
                         >
-                            
-                            <CSVLink
-                                filename={'bitsacm-ps1.csv'}
-                                data={csvData}
-                            >
-                                Export
-                            </CSVLink>
-                        </Button>
+                            <PopoverTrigger>
+                                <Button
+                                    variant='ghost'
+                                    colorScheme='twitter'
+                                    marginLeft='8px'
+                                    onClick={() => setCsvData(exportCsv())}
+                                >
+                                    Export
+                                </Button>
+                            </PopoverTrigger>
+                            <PopoverContent>
+                                <PopoverArrow/>
+                                <PopoverCloseButton/>
+                                <PopoverHeader>CSV Generated</PopoverHeader>
+                                <PopoverBody>
+                                    <Button
+                                        // variant='ghost'
+                                        colorScheme='twitter'
+                                        marginLeft='8px'
+                                    >
+                                        
+                                        <CSVLink
+                                            filename={'bitsacm-ps1.csv'}
+                                            data={csvData}
+                                        >
+                                            Download
+                                        </CSVLink>
+                                    </Button>
+                                </PopoverBody>
+                            </PopoverContent>
+                        </Popover>
                     </Box>
                     <Box
                         height="100%"
