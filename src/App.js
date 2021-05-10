@@ -223,6 +223,14 @@ Branches: ${proj.preferredDisciplines.join(', ')}\n\n\n
                                 Star this on GitHub!
                         </GitHubButton>
                     </Box>
+                    <Box
+                        marginTop='16px'
+                        color='gray.500'
+                        fontSize='12px'
+                    >
+                        Now that you're here, we might as well plug 
+                        <strong style={{ color: '#059FC9' }}><a href='https://blog.bitsacm.in'> The BITS-ACM Blog</a></strong> too.
+                    </Box>
                 </Box>
                 <Box
                     flex="1 1 auto"
