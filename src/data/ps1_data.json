@@ -21,7 +21,8 @@
         "branches": [
             "A4",
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Access Livelihoods Consulting India, Ltd. - Social Sector(Hyderabad)",
@@ -43,7 +44,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Adani Power-Chemical (Biogas design)(Tirora)",
@@ -65,7 +67,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Adani Power-Chemical (Lube oil quality)(Tirora)",
@@ -87,7 +90,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Adani Power-Civil(Tirora)",
@@ -97,8 +101,8 @@
         "companyId": "5585",
         "projects": [
             {
-                "title": "Civil Engg",
-                "description": "Civil Engg",
+                "title": "Development of System for effective planning and management of Sewage treatment at APML Tiroda.",
+                "description": "Development of System for effective planning and management of Sewage treatment at APML Tiroda.",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
@@ -109,7 +113,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Adani Power-Computer science(Tirora)",
@@ -127,11 +132,28 @@
                 "preferredDisciplines": [
                     "A7"
                 ]
+            },
+            {
+                "title": "Develop IoT application for monitoring Battery room parameters",
+                "description": "Develop IoT application for monitoring Battery room parameters - Proficiency in MATLAB is expected",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A3",
+                    "A7",
+                    "A8",
+                    "AA"
+                ]
             }
         ],
         "branches": [
-            "A7"
-        ]
+            "A7",
+            "A3",
+            "A8",
+            "AA"
+        ],
+        "new": false
     },
     {
         "name": "Adani Power-Electronics(Tirora)",
@@ -157,7 +179,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Adani Power-Mechanical(Tirora)",
@@ -179,7 +202,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Adarsh Control & Automation Pvt. Ltd- Industrial Automation(Bangalore)",
@@ -205,7 +229,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Aditya Birla Insulators(Halol)",
@@ -261,7 +286,8 @@
             "A7",
             "C6",
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Aditya Birla Science & Technology-Chemical(Mumbai)",
@@ -283,7 +309,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Aditya Cement Works-Chemical(Shambupura)",
@@ -305,7 +332,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Aditya Cement Works-Civil(Shambupura)",
@@ -327,7 +355,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Aditya Cement Works-Mechanical(Shambupura)",
@@ -349,7 +378,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "AECOM Infrastructure-Civil(Mumbai)",
@@ -371,7 +401,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Afour tech -Mobile App development(Pune)",
@@ -393,7 +424,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Agile connect - Cloud Appplication Dev(Mumbai)",
@@ -415,7 +447,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Agile Connects Private Ltd - Embedded Systems/IoI(Mumbai)",
@@ -441,7 +474,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Agile connects- Market survey(Mumbai)",
@@ -463,7 +497,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Agnext tech- AL/ML(Sahibzada Ajit Singh Nagar)",
@@ -485,7 +520,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Agnext tech-Computer Vision(Sahibzada Ajit Singh Nagar)",
@@ -507,7 +543,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Agnext tech-Software Development(Sahibzada Ajit Singh Nagar)",
@@ -529,7 +566,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Aizant Global Analytics- Software development(Hyderabad )",
@@ -551,7 +589,123 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Akshara Livelihoods Private Limited - Developmental perspectives(Hyderabad )",
+        "industry": "Finance and Mgmt",
+        "location": "Hyderabad",
+        "stationId": "6024",
+        "companyId": "5725",
+        "projects": [
+            {
+                "title": "Developmental perspectives",
+                "description": "Developmental perspectives",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "Akshara Livelihoods Private Limited - Leadership development(Hyderabad )",
+        "industry": "Finance and Mgmt",
+        "location": "Hyderabad",
+        "stationId": "6026",
+        "companyId": "5727",
+        "projects": [
+            {
+                "title": "Leadership development",
+                "description": "Leadership development",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "Akshara Livelihoods Private Limited - Research(Hyderabad )",
+        "industry": "Finance and Mgmt",
+        "location": "Hyderabad",
+        "stationId": "6025",
+        "companyId": "5726",
+        "projects": [
+            {
+                "title": "Research",
+                "description": "Research",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "Akshara Livelihoods Private Limited - Social Media(Hyderabad )",
+        "industry": "Finance and Mgmt",
+        "location": "Hyderabad",
+        "stationId": "6023",
+        "companyId": "5724",
+        "projects": [
+            {
+                "title": "Social Media",
+                "description": "Social Media",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "Akshara Livelihoods Private Limited-Natural Farming course development(Hyderabad )",
+        "industry": "Finance and Mgmt",
+        "location": "Hyderabad",
+        "stationId": "6027",
+        "companyId": "5728",
+        "projects": [
+            {
+                "title": "Natural Farming course development",
+                "description": "Natural Farming course development",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Alankaar India- Digital Marketing(Gurgaon)",
@@ -573,7 +727,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Aliens Developers Pvt. Ltd(Hyderabad )",
@@ -595,7 +750,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Alma connect - customer relationship management,New delhi(New delhi)",
@@ -617,7 +773,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Almaconnect- General Management(New delhi)",
@@ -639,7 +796,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Americana Foods - Digital Analytics(UAE)",
@@ -661,7 +819,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Americana Foods - Retail Modelling(UAE)",
@@ -683,7 +842,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Americana Foods-Actionable KPI Design & communication(UAE)",
@@ -705,7 +865,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Amritha Tool Crafts-Computer science(Hyderabad )",
@@ -727,7 +888,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Amritha Tool Crafts-Mechanical(Hyderabad )",
@@ -749,7 +911,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil(Visakhapatnam )",
@@ -775,7 +938,8 @@
             "A1",
             "A2",
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil(Sri kalahasthi)",
@@ -801,7 +965,8 @@
             "A1",
             "A2",
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil(Bapatla ( Near Amaravti) )",
@@ -827,7 +992,8 @@
             "A1",
             "A2",
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "APS Lifetech(Pune)",
@@ -849,7 +1015,8 @@
         ],
         "branches": [
             "B1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Arbunize Digital Media Pvt. Ltd - Information Extraction/NLP(Delhi)",
@@ -871,7 +1038,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Arbunize digital media- Alternate career prediction(Delhi)",
@@ -893,7 +1061,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Arcon Tech- Machine Learning(Mumbai)",
@@ -915,7 +1084,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Army Base Workshop - App/AR/VR(Pitoragarh)",
@@ -939,7 +1109,8 @@
         "branches": [
             "A3",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Army Base Workshop - Electrical Power Systems(Pitoragarh)",
@@ -963,7 +1134,8 @@
         "branches": [
             "A3",
             "A8"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Army Base Workshop - Industrial Automation & Control(Pitoragarh)",
@@ -1012,7 +1184,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Army Base Workshop - Machine Learning(Pitoragarh)",
@@ -1047,7 +1220,8 @@
         "branches": [
             "A3",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Arocom IT - Machine Learning(Gandhinagar )",
@@ -1079,7 +1253,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Asanify Technologies- Business development(Kolkata)",
@@ -1101,7 +1276,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Asanify Technologies- Social media marketing(Kolkata)",
@@ -1123,7 +1299,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Awarpur Cement Works-Chemical(Chandrapur)",
@@ -1145,7 +1322,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Awarpur Cement Works-Civil(Chandrapur)",
@@ -1167,7 +1345,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Awarpur Cement Works-Electrical & Electronics(Chandrapur)",
@@ -1189,7 +1368,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Awarpur Cement Works-Mechanical(Chandrapur)",
@@ -1211,7 +1391,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Baga Cement Works-Chemical(Solan)",
@@ -1233,7 +1414,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Baga Cement Works-Civil(Solan)",
@@ -1255,7 +1437,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Baga Cement Works-Electrical & Electronics(Solan)",
@@ -1277,7 +1460,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Baga Cement Works-Mechanical(Solan)",
@@ -1299,7 +1483,39 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Bajaj Auto Limited (Pune)",
+        "industry": "Mechanical",
+        "location": "Pune",
+        "stationId": "6043",
+        "companyId": "5744",
+        "projects": [
+            {
+                "title": "R & D / Manufacturing / Operations",
+                "description": "R & D / Manufacturing / Operations. More details will get updated shortly.",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A3",
+                    "A4",
+                    "A8",
+                    "AA",
+                    "AB"
+                ]
+            }
+        ],
+        "branches": [
+            "A3",
+            "A4",
+            "A8",
+            "AA",
+            "AB"
+        ],
+        "new": true
     },
     {
         "name": "Balaji Cement Works-Chemical(Budawada)",
@@ -1321,7 +1537,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Balaji Cement Works-Civil(Budawada)",
@@ -1343,7 +1560,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Balaji Cement Works-Electrical & Electronics(Budawada)",
@@ -1365,7 +1583,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Balaji Cement Works-Mechanical(Budawada)",
@@ -1387,7 +1606,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Bela Cement Works-Electrical & Electronics(Jaypee Puram Bela- MP)",
@@ -1409,7 +1629,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Bela Cement Works-Mechanical(Jaypee Puram Bela- MP)",
@@ -1431,7 +1652,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Belief Systems - General Management(Chennai)",
@@ -1453,7 +1675,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Beunlu - Graphic Designing(Gurgaon)",
@@ -1475,7 +1698,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Beunlu - Sales and Marketing(Gurgaon)",
@@ -1497,7 +1721,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "BeUnlu Private Limited - App/AR/VR(Gurgaon)",
@@ -1521,7 +1746,8 @@
         "branches": [
             "A3",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Beunlu- Video editing(Gurgaon)",
@@ -1543,7 +1769,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Bharat Electronics Limited(Bangalore)",
@@ -1567,7 +1794,8 @@
         "branches": [
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Bhaskaracharya Institute For Space Applications And Geoinformatic - Embedded Systems/IoT(Gandhinagar )",
@@ -1593,7 +1821,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Big Scale tech- Mobile and Web Developemet(Surat )",
@@ -1615,7 +1844,31 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Bill Cloud Pvt Ltd(Pune)",
+        "industry": "Computer Science",
+        "location": "Pune",
+        "stationId": "5409",
+        "companyId": "5110",
+        "projects": [
+            {
+                "title": "Business Process Modeling",
+                "description": "Model all the internal Processes in Bill Cloud.A comprehensive documentation of processes and policies for the organization",
+                "requiredSkills": "Analysis , Documentation , Good Communication Skills",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Bintix Waste Research Private Limited - Tech-Software Development(Hyderabad )",
@@ -1637,7 +1890,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Bintix Waste Research Private Limited-Data Analytics(Hyderabad )",
@@ -1659,7 +1913,8 @@
         ],
         "branches": [
             "B3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Birla Polyfibers-Chemical(Harihar)",
@@ -1681,7 +1936,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Birla Polyfibers-Mechanical(Harihar)",
@@ -1703,7 +1959,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Birla White Cement - Civil(Jodhpur)",
@@ -1725,7 +1982,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Birla White Cement-Chemical(Jodhpur)",
@@ -1747,7 +2005,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Birla White Cement-Mechanical(Jodhpur)",
@@ -1769,7 +2028,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "BISAG-Software Development(Gandhinagar )",
@@ -1795,7 +2055,8 @@
             "A3",
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Blue star Limited-Mechanical (Air conditining and commercial refrigeration)(Ogli)",
@@ -1817,7 +2078,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Caliber Interconnect Solutions Pvt Ltd-Industrial Automation & Control(Coimbatore)",
@@ -1915,7 +2177,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Carborundum universal Limited-Mechanical(Chennai)",
@@ -1937,7 +2200,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Cateina Technologies Pvt. Ltd.(Mumbai)",
@@ -1961,7 +2225,8 @@
         "branches": [
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CCS STRATEGY SOLUTION - FLEXSIM(New delhi)",
@@ -1985,7 +2250,8 @@
         "branches": [
             "A4",
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CDAC- Web Deveopment(Pune)",
@@ -2007,7 +2273,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CEERI Pilani - App/AR/VR(Pilani)",
@@ -2031,7 +2298,8 @@
         "branches": [
             "A3",
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CEERI Pilani - Embedded Systems/IoT(Pilani)",
@@ -2113,7 +2381,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CEERI Pilani - Industrial Automation and Control (Pilani)",
@@ -2150,7 +2419,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CEERI Pilani - Machine Learning/DSP/AI(Pilani)",
@@ -2220,7 +2490,8 @@
             "A3",
             "A7",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CEERI Pilani - VLSI Design/Circuit Design(Pilani)",
@@ -2313,7 +2584,8 @@
             "A8",
             "A4",
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Celebal Technologies Pvt Ltd (Jaipur)",
@@ -2323,8 +2595,8 @@
         "companyId": "5077",
         "projects": [
             {
-                "title": "-",
-                "description": "-",
+                "title": "Check the link in project description",
+                "description": "https://drive.google.com/file/d/1FJshkelueAXfsdAiFHJKGDSR5KL0COLm/view?usp=sharing",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
@@ -2335,7 +2607,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Central Leather Research Institute-Chemical (Unit process & operation)(Chennai)",
@@ -2357,7 +2630,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Central Leather Research Institute-Chemical(Energy Management)(Chennai)",
@@ -2379,7 +2653,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Central Leather Research Institute-Electronics(Chennai)",
@@ -2405,7 +2680,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Central Leather Research Institute-Mechanical(Chennai)",
@@ -2427,7 +2703,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Central Scientific Instruments Organization - Industrial Automation & Control(Chennai)",
@@ -2451,29 +2728,8 @@
         "branches": [
             "A3",
             "A7"
-        ]
-    },
-    {
-        "name": "Centre for Development of Advanced computing (C-DAC)(Pune)",
-        "industry": "Computer Science",
-        "location": "Pune",
-        "stationId": "4148",
-        "companyId": "3858",
-        "projects": [
-            {
-                "title": "Interactive web interface for Machine Learning services",
-                "description": "Front end development for a application in React JS . API to fetch image/document data from client .Saving the data into database SQL/NoSQL .API creation in Flask/Django . * outcomes : Web portal for uploading documents .API endpoints which takes doc/image as input and give to ML pipeline . * Other competencies : Pycharm, VS Code *Any specific courses :- Data Structure & Algorithms, Python Programming, Web development, Database management",
-                "requiredSkills": "Django , Flask , JavaScript. HTML, CSS , React JS , UI/UX design",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            }
         ],
-        "branches": [
-            "Any"
-        ]
+        "new": false
     },
     {
         "name": "Centre for Development of Telemetics (CDot)(New delhi)",
@@ -2497,7 +2753,8 @@
         "branches": [
             "A3",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Centre for Railway Information Systems(New delhi)",
@@ -2519,7 +2776,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Century Rayon-Chemical(Mumbai)",
@@ -2541,7 +2799,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Century Rayon-Electrical & Electronics(Mumbai)",
@@ -2563,7 +2822,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Century Rayon-Mechanical(Mumbai)",
@@ -2585,7 +2845,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Chemical & Mineral Industries Pvt Limited-Chemical (Unit process & operation)(Jodhpur)",
@@ -2607,7 +2868,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Chemical & Mineral Industries Pvt Limited-Mechanical (Quick lime process)(Jodhpur)",
@@ -2629,7 +2891,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Chemical & Mineral Industries Pvt Limited-Mechanical (Vertical lime kiln)(Jodhpur)",
@@ -2651,7 +2914,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Chemical & Mineral Industries Pvt Limited-Mechanical(Calcite grinding)(Jodhpur)",
@@ -2673,7 +2937,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Chemsys Process Engineering Pvt Limited-Chemical (Unit process & operation)(Pune)",
@@ -2695,7 +2960,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Chemsys Process Engineering Pvt Limited_Chemical (Process improvement & utility calculations)(Pune)",
@@ -2717,7 +2983,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Chemsys Process Engineering Pvt Limited_Chemical (Process modeling & simulation)(Pune)",
@@ -2739,7 +3006,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Coditation Systems Pvt Ltd - Machine Learning(Pune)",
@@ -2761,7 +3029,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Coditation Systems Pvt Ltd - Software Development(Pune)",
@@ -2783,7 +3052,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Coffee Beans- AI(Bengaluru )",
@@ -2807,7 +3077,8 @@
         "branches": [
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Computer Ware - Others(Wireless Hotspot Management)(New delhi)",
@@ -2829,7 +3100,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Computer Ware -Others(ReportGeneration)(New delhi)",
@@ -2851,7 +3123,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Concept Infracon Pvt. Limited(Gurgaon)",
@@ -2873,7 +3146,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Contenterra Software Private Limited - Software Development(Hyderabad )",
@@ -2895,7 +3169,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Contenterra Software Private Limited-Analytics/IOT(Hyderabad )",
@@ -2917,7 +3192,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Convergent Technologies (Sequoia Fitness and Sports Technology Pvt Ltd) -Mobile App Development/Data Analytics(Gurgaon)",
@@ -2939,7 +3215,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Core Compete pvt ltd- others ( data Engineering -ETLL)(Hyderabad )",
@@ -2961,7 +3238,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "coreCompetepvt ltd- Web app development(Hyderabad )",
@@ -2983,7 +3261,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "COUTURE AI- Machine Learning/Deep Learning(Bangalore)",
@@ -3005,7 +3284,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CrossBar-Content Creation(Gurgaon)",
@@ -3027,7 +3307,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CrossBar-Data Analytics(Gurgaon)",
@@ -3049,7 +3330,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CrossBar-DigitalMarketing(Gurgaon)",
@@ -3071,7 +3353,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CrossBar-Marketing(Gurgaon)",
@@ -3093,7 +3376,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CSIR-Institute of Genomics & Integrative Biology(New delhi)",
@@ -3180,7 +3464,8 @@
             "Any",
             "A7",
             "B1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CSIR-National Aerospace Laboratories - Machine Learning/DSP/AI(Bangalore)",
@@ -3204,7 +3489,8 @@
         "branches": [
             "A3",
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "CSIR-National Aerospace Laboratories - VLSI Design/Circuit Design(Bengaluru )",
@@ -3250,7 +3536,77 @@
         "branches": [
             "A3",
             "AA"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "CSPL - Finance(Ahmedabad )",
+        "industry": "Finance and Mgmt",
+        "location": "Ahmedabad",
+        "stationId": "6022",
+        "companyId": "5723",
+        "projects": [
+            {
+                "title": "Finance",
+                "description": "1. Creating a dashboard of financial ratios and finance metrics based on IT (Product) and ITES industry data. 2. Review of TALLY data and creation of a dashboard that will auto –populate monthly MIS numbers – Country level, division level and project level MIS. We are also exploring a tool to do this – in which case, implementation support to get the tool deployed to generate accurate financial statements / MIS reports on time. As suggested by you, sensitive data will need to be encrypted with a facility to decrypt and view the results. 3. Review of all contracts (customer names and commercials masked) to create a customer compliances tracker.",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "CSPL - Product Management(Ahmedabad )",
+        "industry": "IT",
+        "location": "Ahmedabad",
+        "stationId": "6020",
+        "companyId": "5721",
+        "projects": [
+            {
+                "title": "Product Management",
+                "description": "Clean up of backlog and getting the backlog into the new tool (Azure) - Compare product management tools available - Explore online help & demo tools - Do initial research for participant mobile app (look at competition) - Changing all existing PowerPoints to new format",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "CSPL - Testing(Ahmedabad )",
+        "industry": "IT",
+        "location": "Ahmedabad",
+        "stationId": "6021",
+        "companyId": "5722",
+        "projects": [
+            {
+                "title": "Testing",
+                "description": "Testing",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Cuemath- Business development(Bangalore)",
@@ -3272,7 +3628,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Dalla Cement Works-Chemical(Dalla)",
@@ -3294,7 +3651,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Data M Intelligence-Marketing Research(Hyderabad )",
@@ -3316,7 +3674,31 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Department of Agriculture(Goa)",
+        "industry": "Chemical",
+        "location": "Goa",
+        "stationId": "2676",
+        "companyId": "2403",
+        "projects": [
+            {
+                "title": "Data analysis and Trends in Agriculture- Goa",
+                "description": "Finding patterns and meaning from available dataset",
+                "requiredSkills": "Python , SQl , Statistics , EXCEL SKILLS",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Department of Posts- Financial inclusion(Hyderabad )",
@@ -3338,7 +3720,90 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Department of Technical Education, Training & Skill Development(Kolkata)",
+        "industry": "Finance and Mgmt",
+        "location": "Kolkata",
+        "stationId": "6009",
+        "companyId": "5710",
+        "projects": [
+            {
+                "title": "Benefit assessment of online portal services in polytechnic system",
+                "description": "Various e-services portals are being developed (e.g., Employee Management, Routine Management, Inventory Management, and Transfer Management). Students are required to carry out Analysis on such Online/ Portal services and suggest necessary input for their effectiveness in polytechnic system.* Other competencies : Interpersonal Communication, Project Management. *outcomes : Effective planning on Polytechnic Development. Effective feedback mechanism. Speedy disposal of services. Faster redressal of grievances.",
+                "requiredSkills": "Database , Programming Software , Software Application",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            },
+            {
+                "title": "Quality Monitoring Frame work for Government ITIs running under Public- Private Partnership (PPP) mode.",
+                "description": "Govt. of West Bengal has taken a Policy decision and outsourced skill training activities of Govt ITIs to different Private Partners. Total 78 ITIs are functioning under PPP mode. To implement a proper quality monitoring framework for such PPP ITIs an appropriate IT solution needs to be in place.* Other Competencies : Knowledge in skill training.*Outcomes : Improving training quality of ITI trainees.Effective training monitoring framework.To achieve an effective formative assessment process for ITI Trainees.",
+                "requiredSkills": "IT & skill training Management.",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A2",
+                    "A3",
+                    "A4",
+                    "A7"
+                ]
+            },
+            {
+                "title": "Gap Study in respect of capacity building programme for Vocational Trainers deployed at different Vocational schools",
+                "description": "Identifying the bottlenecks and thereafter improvement in respect of the quality of domain knowledge as well as teaching methodologies of the Vocational Trainers.*Skill set required : Domain Experts particularly in Technical Fields. * Other competencies : Skill Proficient, Project Management,Communication Skills, Teaching Skills. *outcomes : Student friendly teaching techniques. Effective training mechanism of Vocational Trainers.Quality domain knowledge of Vocational Trainers.* Any specific courses: Any Particular Domain Knowledge.",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            },
+            {
+                "title": "Conceptualization of virtual laboratory/workshop for different Vocational School",
+                "description": "With the conventional practical exposures , additional innovative approaches in developing virtual techniques for acquiring practical knowledge. This is to facilitate the students to get laboratory access where physical existence of Laboratories are an obstacle.* Other competencies : Skill Proficient, Project Management,Communication Skills, Teaching Skills. * outcomes: User Friendly Virtual Platform. Giving all vocational students Practical Knowledge exposure due to absence of Laboratories.* Any specific courses: Software Programming, Coding, Electronic Devices",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A7",
+                    "A8"
+                ]
+            },
+            {
+                "title": "Preparing measurable / quantifiable indices for ranking of courses and institutes etc.",
+                "description": "The project will necessitate the team to create (1) measurable indices for ranking (2) weightage against each of the indices for all courses and (3) institute as a whole based on recorded documents / inspection reports / student & teacher perception/ number of courses/results/ industry out reach etc..*Outcomes: Ranking of institutes and ranking of Departments in the Institutes",
+                "requiredSkills": "Creating Programme Software , Statistics",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            },
+            {
+                "title": "Skill Development Implementation",
+                "description": "Implementation of new Mobilization and Counselling model across the state of West Bengal.Workout the assessment of current websites and workout the necessary solutions thereof. Development of Virtual Incubation Centre module for online entrepreneurship support.* outcomes : 1. No of mobilizations and counselling camps organized 2. Website revamping 3. Development of Virtual Incubation Module on the website www.pbssd.gov.in",
+                "requiredSkills": "Thorough , Web portal development platform.",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any",
+            "A2",
+            "A3",
+            "A4",
+            "A7",
+            "A8"
+        ],
+        "new": true
     },
     {
         "name": "Development Consultants Pvt Ltd-Civil(Mumbai)",
@@ -3348,8 +3813,8 @@
         "companyId": "5568",
         "projects": [
             {
-                "title": "Emission Reduction of GHG gases in Cement Industry",
-                "description": "Emission Reduction of GHG gases in Cement Industry",
+                "title": "Modeling and Structural Analysis",
+                "description": "Modeling and Structural Analysis",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
@@ -3360,7 +3825,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Development Consultants Pvt Ltd-Mechanical (CEMA Std)(Mumbai)",
@@ -3382,7 +3848,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Development Consultants Pvt Ltd-Mechanical (IS 11592)(Mumbai)",
@@ -3404,7 +3871,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Dinero - Full stack Mobile app development(Hyderabad )",
@@ -3428,7 +3896,8 @@
         "branches": [
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Dinero AI- Marketing(Hyderabad )",
@@ -3450,7 +3919,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Divgi TorqTransfer Systems Pvt. Ltd- Manufacturing(Bhosari, Pune )",
@@ -3472,7 +3942,8 @@
         ],
         "branches": [
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Divgi TorqTransfer Systems Pvt. Ltd-Manufacturing(Shivare,Pune)",
@@ -3494,7 +3965,8 @@
         ],
         "branches": [
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "DomTech Robotics & Automation-Mechanical(Nashik)",
@@ -3526,7 +3998,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Domtech Robotics and Automation - Electrical Power Systems(Nashik)",
@@ -3552,7 +4025,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Domtech Robotics and Automation - Embedded Systems/IoT(Nashik)",
@@ -3578,7 +4052,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Domtech Robotics and Automation - VLSI design/Circuit Design(Nashik)",
@@ -3604,7 +4079,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Dr.Reddy-Chemical(Hyderabad )",
@@ -3626,7 +4102,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Dr.Reddy-Pharmaceutical(Hyderabad )",
@@ -3648,7 +4125,41 @@
         ],
         "branches": [
             "A5"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Dybo(Bangalore)",
+        "industry": "IT",
+        "location": "Bangalore",
+        "stationId": "6002",
+        "companyId": "5703",
+        "projects": [
+            {
+                "title": "User Growth",
+                "description": "Using Marketing techniques to grow user base. *Outcome : User growth from 2500 to 10000 users. *any specific courses: CP, Technical Writing",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            },
+            {
+                "title": "Customer Acquisition",
+                "description": "Using Analytics and paid marketing techniques to acquire customers. * Outcome : finding the first 5 paying customers * Any specific courses: CP, Technical writing",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Dynamic Elecpower (P) Ltd - Electrical Power Systems(Bhilwara)",
@@ -3672,7 +4183,8 @@
         "branches": [
             "A3",
             "A8"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Dynamic Elecpower (P) Ltd - Industrial Control & Automation(Bhilwara)",
@@ -3707,7 +4219,8 @@
         "branches": [
             "A3",
             "A8"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "E connect - Non Development Projects(Udaipur)",
@@ -3729,7 +4242,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "E-Connect Solutions Pvt. Ltd - Embedded Systems/IoT(Udaipur)",
@@ -3755,7 +4269,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Edutech Learning Solutions Pvt. Ltd. (Vadodara )",
@@ -3777,7 +4292,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "EFY Group,New Delhi - Embedded Systems / IoT(New delhi)",
@@ -3803,7 +4319,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Electronics Corporation of India Limited - VLSI Design/Circuit Design(Hyderabad )",
@@ -3829,7 +4346,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Electrono Solutions - App/AR/VR (Bangalore)",
@@ -3855,7 +4373,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Electrono Solutions - Electrical Power Systems (Bangalore)",
@@ -3877,7 +4396,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Electrono Solutions - Industrial Control & Automation(Bangalore)",
@@ -3903,7 +4423,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Elixar Systems - APP Development(New delhi)",
@@ -3925,7 +4446,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Engineers India Limited-Chemical(Gurugram )",
@@ -3947,7 +4469,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Engineers India Limited-Mechanical(Gurugram )",
@@ -3969,7 +4492,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "EUPHEUS LEARNING(New Delhi)",
@@ -4001,7 +4525,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Ewar Games- Market analysis(Bangalore)",
@@ -4023,7 +4548,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Expound Technivo Pvt Ltd Tech-Software Development(Mumbai)",
@@ -4045,7 +4571,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Expound Technivo- Strategy and BD(Mumbai)",
@@ -4067,7 +4594,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Futures First Info Services Pvt. Ltd.- Content Development(Gurgaon)",
@@ -4089,7 +4617,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Gates India Pvt Ltd-Chemical(Chandigarh)",
@@ -4111,7 +4640,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Gates India Pvt Ltd-Mechanical/Manufacturing(Chandigarh)",
@@ -4135,7 +4665,8 @@
         "branches": [
             "A4",
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Give India - Social Sector(New Delhi)",
@@ -4145,8 +4676,8 @@
         "companyId": "4487",
         "projects": [
             {
-                "title": "-",
-                "description": "-",
+                "title": "Software development and app development",
+                "description": "Software development and app development",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
@@ -4157,7 +4688,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "GMR Varalakshmi- General Management(Hyderabad )",
@@ -4179,7 +4711,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Goavega-Data Analytics (ML)(Bangalore)",
@@ -4201,7 +4734,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Grasim Industries Limited-Chemical (Unit process & operation)(Nagda)",
@@ -4223,7 +4757,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Grasim Industries Limited-Mechanical (Energy Management)(Nagda)",
@@ -4245,7 +4780,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Grasim Industries Limited-Mechanical (Safety and Enviornment)(Nagda)",
@@ -4267,7 +4803,54 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Green Gentem - NonTech(Germany)",
+        "industry": "Finance and Mgmt",
+        "location": "Germany",
+        "stationId": "6037",
+        "companyId": "5738",
+        "projects": [
+            {
+                "title": "Market exploration of e-waste technology, recyclers, and research in India",
+                "description": "Electronic waste is one of the unorganized sectors, which plays a vital role in achieving a circular economy. According to the world bank, India recycles &lt; 18 % of the ewaste and most of it is recycled informally. Therefore, our start-up focuses on bringing stateof-the-art technology to India and improve the current supply chain.",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "Green Gentem - Tech(Germany)",
+        "industry": "Finance and Mgmt",
+        "location": "Germany",
+        "stationId": "6038",
+        "companyId": "5739",
+        "projects": [
+            {
+                "title": "Web/app interface development with background algorithm coding to generate best market price value for the recycled product",
+                "description": "Electronic waste is one of the unorganized sectors, which plays a vital role in achieving a circular economy. According to the world bank, India recycles &lt; 18 % of the ewaste and most of it is recycled informally. Therefore, our start-up focuses on bringing stateof-the-art technology to India and improve the current supply chain",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Greendeck Cliff.ai-Data Integration(Indore )",
@@ -4289,7 +4872,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Greendeck Cliff.ai-Data Quality Insurance(Indore )",
@@ -4311,7 +4895,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Greendeck Cliff.ai-Deep Learning(Indore )",
@@ -4333,7 +4918,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Greendeck Cliff.ai-Full Stack Development(Indore )",
@@ -4357,7 +4943,8 @@
         "branches": [
             "A3",
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Greendeck Cliff.ai-Machine Learning(Indore )",
@@ -4379,7 +4966,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Greendeck- content writing(Indore )",
@@ -4401,7 +4989,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Gujarat Cement-Chemical(Kovaya)",
@@ -4423,7 +5012,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Gujarat Cement-Civil(Kovaya)",
@@ -4445,7 +5035,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Gujarat Cement-Mechanical(Kovaya)",
@@ -4467,7 +5058,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Habbit - Data Analytics(Bangalore)",
@@ -4489,7 +5081,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Habbit - Product Management(Bangalore)",
@@ -4511,7 +5104,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Habbit - Web Development(Bangalore)",
@@ -4533,7 +5127,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Habbit- Business development(Bangalore)",
@@ -4555,7 +5150,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Habbit- company valuation(Bangalore)",
@@ -4577,7 +5173,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Habbit- content writing(Bangalore)",
@@ -4599,7 +5196,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Habbit- market research(Bangalore)",
@@ -4621,7 +5219,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Habbit- video production(Bangalore)",
@@ -4643,7 +5242,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Happiest Minds Technologies(Bangalore)",
@@ -4665,7 +5265,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Helix Techin Info Systems Pvt.Ltd - Data Analytics(Goa)",
@@ -4687,7 +5288,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Helix Techin Info Systems Pvt.Ltd - Machine Learning/NLP(Goa)",
@@ -4709,7 +5311,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Helpage India, Goa-Data Analytics(Goa)",
@@ -4731,7 +5334,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Heraizen Technologies Pvt. Ltd - Web Development(Bangalore)",
@@ -4753,7 +5357,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hertztech Solutions Pvt Ltd., - AI/ML(Chennai)",
@@ -4785,7 +5390,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hertztech Solutions Pvt Ltd.-Manufacturing(Chennai)",
@@ -4807,7 +5413,8 @@
         ],
         "branches": [
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hexacorp - Cloud Services(Chennai)",
@@ -4829,7 +5436,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hexacorp - Full Stack Development(Chennai)",
@@ -4851,7 +5459,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hexacorp - Product Engineering(Chennai)",
@@ -4873,7 +5482,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hexagon Capability Center India Pvt. Ltd - Machine Learning(Hyderabad )",
@@ -4895,7 +5505,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hexanika-Mechanical(Pune)",
@@ -4917,7 +5528,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hindustan Colas-Civil(Mumbai)",
@@ -4939,7 +5551,31 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Hindustan Petroleum Corporation Limited-Mechanical(Mumbai)",
+        "industry": "Chemical",
+        "location": "Mumbai",
+        "stationId": "5750",
+        "companyId": "5451",
+        "projects": [
+            {
+                "title": "Mechanical",
+                "description": "Tentative topics related to : Lubrication (Automotive Lubricants, Industrial Lubricants, Greases, Metal Cutting Fluids, Heat Transfer Fluids – Topics related to applications in Lubrications, Tribology, Fluid Dynamics, Heat Transfer etc) – It may be noted that the topics will be under the guidance of Technical Services officials of our Lubes Business.",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A4"
+                ]
+            }
+        ],
+        "branches": [
+            "A4"
+        ],
+        "new": true
     },
     {
         "name": "Hirmi Cement Works-Chemical(Simga)",
@@ -4961,7 +5597,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hirmi Cement Works-Civil(Simga)",
@@ -4983,7 +5620,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hirmi Cement Works-Mechanical(Simga)",
@@ -5005,7 +5643,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Homi Bhabha Centre For Science Education - IoT - Web Development(Mumbai)",
@@ -5027,7 +5666,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hyphen Supply Chain Solutions Pvt Ltd - Application Development(Noida)",
@@ -5049,7 +5689,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hyphen Supply Chain Solutions Pvt Ltd - Coding(Noida)",
@@ -5071,7 +5712,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hyphen Supply Chain Solutions Pvt Ltd - Financial analysis(Noida)",
@@ -5093,7 +5735,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Hyphen Supply Chain Solutions Pvt Ltd - Social Media(Noida)",
@@ -5115,7 +5758,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "I Care Foundation,Mexico-Fundraising(Mexico)",
@@ -5137,7 +5781,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "I Care Foundation,Mexico-Marketing(Mexico)",
@@ -5159,7 +5804,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "I Care Foundation,Mexico-Marketing for Products with cause(Mexico)",
@@ -5181,7 +5827,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "I Care Foundation,Mexico-Sustainability Projects(Mexico)",
@@ -5203,7 +5850,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "i-exceed technology solutions private limited(Bangalore)",
@@ -5225,7 +5873,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Icare Foundation NONTECHI Care Foundation,Mexico - Social and environmental analysis(Mexico)",
@@ -5247,7 +5896,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Icare Foundation- Digital initatives(Mexico)",
@@ -5269,7 +5919,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Icare Foundation- Project tracker(Mexico)",
@@ -5291,7 +5942,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "IDS Infotech Ltd - Data Science(Mohali )",
@@ -5313,7 +5965,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "IMARC Services Pvt. Ltd. - IT(Noida)",
@@ -5335,7 +5988,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "IMARC Services-Market Reasearch(Noida)",
@@ -5357,29 +6011,8 @@
         ],
         "branches": [
             "Any"
-        ]
-    },
-    {
-        "name": "Incozen Therapeutics Pvt. Ltd.(Hyderabad)",
-        "industry": "Health Care",
-        "location": "Hyderabad",
-        "stationId": "4259",
-        "companyId": "3965",
-        "projects": [
-            {
-                "title": "-",
-                "description": "-",
-                "requiredSkills": "-",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            }
         ],
-        "branches": [
-            "Any"
-        ]
+        "new": false
     },
     {
         "name": "India Buys - IT(Hyderabad)",
@@ -5389,8 +6022,8 @@
         "companyId": "4245",
         "projects": [
             {
-                "title": "-",
-                "description": "-",
+                "title": "Android app development",
+                "description": "Android app development",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
@@ -5401,7 +6034,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "India Buys-Marketing(Hyderabad )",
@@ -5423,7 +6057,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Council for Research on International Economic Relations - Electric Mobility Work Program(New delhi)",
@@ -5445,7 +6080,8 @@
         ],
         "branches": [
             "B3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Council for Research on International Economic Relations - Price forecasting of agricultural commodities(New Delhi)",
@@ -5467,7 +6103,8 @@
         ],
         "branches": [
             "B3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Council for Research on International Economic Relations- Climate change(New delhi)",
@@ -5489,7 +6126,8 @@
         ],
         "branches": [
             "B3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Institute of Petroleum-Chemical (Enviornment Engg)(Dehradun)",
@@ -5511,7 +6149,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Institute of Petroleum-Chemical (Unit process & operation)(Dehradun)",
@@ -5533,7 +6172,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Institute of Petroleum-Mechanical (Energy Management)(Dehradun)",
@@ -5555,7 +6195,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Institute of Public Administration - Secondary Research(New delhi)",
@@ -5577,7 +6218,8 @@
         ],
         "branches": [
             "B3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Institute Of Remote Sensing - Machine Learning/DSP/AI(Dehradun)",
@@ -5603,7 +6245,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Oil Corporation Limited-Chemical(New delhi)",
@@ -5625,7 +6268,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Oil Corporation Limited-Mechanical(New delhi)",
@@ -5647,7 +6291,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Red Cross Society(Hyderabad)",
@@ -5669,7 +6314,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Red Cross Society - Operations- General Management(Vijayawada)",
@@ -5691,7 +6337,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Red Cross Society Blood Bank - App/AR/VR(New delhi)",
@@ -5717,7 +6364,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Red Cross Society Blood Bank - Social Sector(New delhi)",
@@ -5769,7 +6417,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Indian Society for Education and Environment (Chennai)",
@@ -5785,13 +6434,18 @@
                 "broadArea": "-",
                 "preferredCourseReq": "-",
                 "preferredDisciplines": [
-                    "A3"
+                    "A3",
+                    "A8",
+                    "AA"
                 ]
             }
         ],
         "branches": [
-            "A3"
-        ]
+            "A3",
+            "A8",
+            "AA"
+        ],
+        "new": false
     },
     {
         "name": "Indira Gandhi Centre for Atomic Research (IGCAR)(Kalpakkam)",
@@ -5831,7 +6485,8 @@
             "AB",
             "B2",
             "B5"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Ineuron Intelligence - Artificial Intelligence(Bangalore)",
@@ -5853,7 +6508,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Instrumentation Solution - Civil(Gurgaon)",
@@ -5875,7 +6531,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Integra Design-Online - Application Migration(New delhi)",
@@ -5897,7 +6554,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Integra Design-Online - Real Time Analytics(New delhi)",
@@ -5929,7 +6587,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Intercontinental Consultants & Technocrats Pvt. Ltd.(ICT)-Civil(Mumbai)",
@@ -5951,7 +6610,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "IRCS Delhi General Management(New delhi)",
@@ -5973,7 +6633,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "IRCS Delhi wireframe design(New delhi)",
@@ -5995,7 +6656,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "IRCS Hyderabad General Management(Hyderabad )",
@@ -6017,7 +6679,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "ISEE- Literature Research(Chennai)",
@@ -6039,7 +6702,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "IT Department - Government of Rajasthan - Internet of Things(Jaipur)",
@@ -6061,7 +6725,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "IT Department - Government of Rajasthan - Mobile Application Development(Jaipur)",
@@ -6093,7 +6758,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "IT Department - Government of Rajasthan - Web Development(Jaipur)",
@@ -6115,7 +6781,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "JSW Energy-Chemical (Seperation of coal and stone)(Vijayanagar )",
@@ -6143,7 +6810,66 @@
             "A3",
             "A4",
             "A7"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "JSW Energy-EEE (Control room remote operation)(Vijayanagar )",
+        "industry": "Mechanical",
+        "location": "Vijayanagar",
+        "stationId": "5995",
+        "companyId": "5696",
+        "projects": [
+            {
+                "title": "REMOTE OPERATION OF POWER PLANT & AUXILIARIES & CONTROL ROOM CONVERGENCE",
+                "description": "REMOTE OPERATION OF POWER PLANT & AUXILIARIES & CONTROL ROOM CONVERGENCE",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A1",
+                    "A3",
+                    "A4",
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A1",
+            "A3",
+            "A4",
+            "A7"
+        ],
+        "new": true
+    },
+    {
+        "name": "JSW Energy-Mechanical (Coal fired boiler)(Vijayanagar )",
+        "industry": "Mechanical",
+        "location": "Vijayanagar",
+        "stationId": "5994",
+        "companyId": "5695",
+        "projects": [
+            {
+                "title": "USE OF OIL SLUDGE IN PULVERISED COAL FIRED BOILER",
+                "description": "USE OF OIL SLUDGE IN PULVERISED COAL FIRED BOILER",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A1",
+                    "A3",
+                    "A4",
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A1",
+            "A3",
+            "A4",
+            "A7"
+        ],
+        "new": true
     },
     {
         "name": "JSW Energy-Mechanical (Turbines)(Vijayanagar )",
@@ -6171,7 +6897,8 @@
             "A3",
             "A4",
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "JSW Steel-Chemical (Carbon technology landscaping)(Vijayanagar )",
@@ -6197,7 +6924,116 @@
             "A1",
             "A4",
             "A7"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "JSW Steel-Chemical (Hydrogen technology landscaping)(Vijayanagar )",
+        "industry": "Steel",
+        "location": "Vijayanagar",
+        "stationId": "5996",
+        "companyId": "5697",
+        "projects": [
+            {
+                "title": "Technology Landscaping for use of hydrogen in an Integrated Steel Plant",
+                "description": "Technology Landscaping for use of hydrogen in an Integrated Steel Plant",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A1",
+                    "A3",
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A1",
+            "A3",
+            "A7"
+        ],
+        "new": true
+    },
+    {
+        "name": "JSW Steel-Computer (ANN)(Vijayanagar )",
+        "industry": "Steel",
+        "location": "Vijayanagar",
+        "stationId": "6000",
+        "companyId": "5701",
+        "projects": [
+            {
+                "title": "Development of ANN based property prediction model for hot rolling",
+                "description": "Development of ANN based property prediction model for hot rolling",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A1",
+                    "A4",
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A1",
+            "A4",
+            "A7"
+        ],
+        "new": true
+    },
+    {
+        "name": "JSW Steel-Computer (ML)(Vijayanagar )",
+        "industry": "Steel",
+        "location": "Vijayanagar",
+        "stationId": "6001",
+        "companyId": "5702",
+        "projects": [
+            {
+                "title": "Development of machine learning based pellet property prediction model",
+                "description": "Development of machine learning based pellet property prediction model",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A1",
+                    "A4",
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A1",
+            "A4",
+            "A7"
+        ],
+        "new": true
+    },
+    {
+        "name": "JSW Steel-Computer (Property prediction model)(Vijayanagar )",
+        "industry": "Steel",
+        "location": "Vijayanagar",
+        "stationId": "5997",
+        "companyId": "5698",
+        "projects": [
+            {
+                "title": "Development of property prediction model for electrical steels using machine learning algorithm",
+                "description": "Development of property prediction model for electrical steels using machine learning algorithm",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A1",
+                    "A4",
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A1",
+            "A4",
+            "A7"
+        ],
+        "new": true
     },
     {
         "name": "JSW Steel-Mechanical (Ansys simulation model)(Vijayanagar )",
@@ -6223,7 +7059,62 @@
             "A1",
             "A4",
             "A7"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "JSW Steel-Mechanical (Optimization technique)(Vijayanagar )",
+        "industry": "Steel",
+        "location": "Vijayanagar",
+        "stationId": "5998",
+        "companyId": "5699",
+        "projects": [
+            {
+                "title": "Optimization of grinding media in ball mill operation for producing desired quality pellet concentrate",
+                "description": "Optimization of grinding media in ball mill operation for producing desired quality pellet concentrate",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A1",
+                    "A4",
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A1",
+            "A4",
+            "A7"
+        ],
+        "new": true
+    },
+    {
+        "name": "JSW Steel-Mechanical (Statistical model)(Vijayanagar )",
+        "industry": "Steel",
+        "location": "Vijayanagar",
+        "stationId": "5999",
+        "companyId": "5700",
+        "projects": [
+            {
+                "title": "Development of statistical model for hot metal silicon prediction",
+                "description": "Development of statistical model for hot metal silicon prediction",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A1",
+                    "A4",
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A1",
+            "A4",
+            "A7"
+        ],
+        "new": true
     },
     {
         "name": "KEC International Ltd-Civil(Jaipur)",
@@ -6245,11 +7136,12 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Kerala Infrastructure and Technogy for Education(Trivandrum)",
-        "industry": "Others",
+        "industry": "IT",
         "location": "Trivandrum",
         "stationId": "4255",
         "companyId": "3961",
@@ -6277,31 +7169,64 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
-        "name": "Kizora Software Pvt. Ltd - App/AR/VR(Nagpur)",
-        "industry": "Electronics",
-        "location": "Nagpur",
-        "stationId": "5951",
-        "companyId": "5652",
+        "name": "Knowcross Solutions Pvt Ltd - Non Tech (New Delhi)",
+        "industry": "Finance and Mgmt",
+        "location": "New Delhi",
+        "stationId": "6007",
+        "companyId": "5708",
         "projects": [
             {
-                "title": "Software Development/App Development",
-                "description": "Software Development/App Development",
+                "title": "Market Research",
+                "description": "Market Research",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
                 "preferredDisciplines": [
-                    "A3",
-                    "A7"
+                    "Any"
+                ]
+            },
+            {
+                "title": "Business development",
+                "description": "Business development",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
                 ]
             }
         ],
         "branches": [
-            "A3",
-            "A7"
-        ]
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "Knowcross Solutions Pvt Ltd- Tech (New Delhi)",
+        "industry": "Computer Science",
+        "location": "New Delhi",
+        "stationId": "6006",
+        "companyId": "5707",
+        "projects": [
+            {
+                "title": "Predictive Maintenance using IoT",
+                "description": "Use smart sensors to understand usage of equipment and predict maintenance requirements. Project will require research on sensors available in market, APIs available to integrate sensors with software. * Other competencies: Understanding of IoT; understanding of machines will be an added advantage. * outcomes : List of sensors and software that can be used for the business Logic/algorithms to predict maintenance requirements",
+                "requiredSkills": "Algorithms , Programming , software APIs",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A4"
+                ]
+            }
+        ],
+        "branches": [
+            "A4"
+        ],
+        "new": true
     },
     {
         "name": "Knowzies Technology Solutions-Mechanical(Pune)",
@@ -6323,7 +7248,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Kotak Education Foundation Tech - Web Development(Mumbai)",
@@ -6355,7 +7281,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Kotak education- content writing(Mumbai)",
@@ -6377,7 +7304,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Kotak education- dashboard development(Mumbai)",
@@ -6399,7 +7327,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Kotak Education- infographics and video based content(Mumbai)",
@@ -6421,7 +7350,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Kotak education- performance monitoring & evaluation(Mumbai)",
@@ -6443,7 +7373,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Kotak education- Portfolio analysis(Mumbai)",
@@ -6465,7 +7396,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L & T Infotech - Business Intelligence(Mumbai)",
@@ -6491,7 +7423,8 @@
             "Any",
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L & T Infotech - Data Analytics(Mumbai)",
@@ -6517,7 +7450,8 @@
             "Any",
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L & T Infotech - Machine Learning(Mumbai)",
@@ -6543,7 +7477,8 @@
             "Any",
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L & T Infotech - Others(Mumbai)",
@@ -6579,7 +7514,8 @@
             "A7",
             "Any",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L & T Infotech - Research(Mumbai)",
@@ -6605,7 +7541,8 @@
             "Any",
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L & T Infotech - Web Development(Mumbai)",
@@ -6652,7 +7589,8 @@
             "Any",
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L&T Infotech- Academy and training(Mumbai)",
@@ -6674,7 +7612,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L&T Infotech- Business Development(Mumbai)",
@@ -6696,7 +7635,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L&T Infotech- Presales(Mumbai)",
@@ -6718,7 +7658,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "L&T Infotech- Research and study on IIOT(Mumbai)",
@@ -6740,7 +7681,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Lakshyam NGO-General Management(Delhi)",
@@ -6762,7 +7704,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Learning Mate Solution-Data Analytics on Higehr education(Mumbai)",
@@ -6784,7 +7727,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Learning Mate- Content Architecture(Mumbai)",
@@ -6806,7 +7750,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Learning Mate- Data Insights for higher education(Mumbai)",
@@ -6828,7 +7773,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Learning Mate- Data Insights on K-12(Mumbai)",
@@ -6850,7 +7796,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "LightSpeed AI Labs Pvt Ltd - Industrial Automation & Control(Hyderabad )",
@@ -6876,7 +7823,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "LightSpeed AI Labs Pvt Ltd - Machine Learning/DSP/AI(Hyderabad )",
@@ -6893,6 +7841,7 @@
                 "preferredCourseReq": "-",
                 "preferredDisciplines": [
                     "A3",
+                    "A7",
                     "A8",
                     "AA"
                 ]
@@ -6900,9 +7849,11 @@
         ],
         "branches": [
             "A3",
+            "A7",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "LOGIQ LABS Pvt Ltd - Machine Learning/DSP/AI(Bangalore)",
@@ -6926,7 +7877,8 @@
         "branches": [
             "A3",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "LogiQLabs-Data analytics(Bangalore)",
@@ -6948,7 +7900,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Love Without Boundaries Foundation- General Management(Kolkata)",
@@ -6970,7 +7923,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Madras Mindworks Pvt Ltd - App/AR/VR(Chennai)",
@@ -6996,7 +7950,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Madras Mindworks Pvt Ltd -Electronics(Chennai)",
@@ -7022,7 +7977,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Madras Mindworks Pvt Ltd -Mechanical(Chennai)",
@@ -7044,7 +8000,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "MagTapp Technologies- Web development(Mumbai)",
@@ -7066,7 +8023,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Magtapp- content development(Mumbai)",
@@ -7088,7 +8046,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Magtapp- Digital marketing(Mumbai)",
@@ -7110,7 +8069,31 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Maker Asylum- Sales & Marketing(Mapusa )",
+        "industry": "Mechanical",
+        "location": "Mapusa",
+        "stationId": "5659",
+        "companyId": "5360",
+        "projects": [
+            {
+                "title": "Sales & Marketing and working on ongoing project at the space",
+                "description": "Sales & Marketing and working on ongoing project at the space. help increase salesnumber and makecomplete project withdocumentation",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": false
     },
     {
         "name": "Maker&apos;s Asylum-Mechanical(Goa)",
@@ -7132,29 +8115,8 @@
         ],
         "branches": [
             "A4"
-        ]
-    },
-    {
-        "name": "Makera- Sales & Marketing(Mapusa )",
-        "industry": "Mechanical",
-        "location": "Mapusa",
-        "stationId": "5659",
-        "companyId": "5360",
-        "projects": [
-            {
-                "title": "Sales & Marketing and working on ongoing project at the space",
-                "description": "Sales & Marketing and working on ongoing project at the space. help increase salesnumber and makecomplete project withdocumentation",
-                "requiredSkills": "-",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            }
         ],
-        "branches": [
-            "Any"
-        ]
+        "new": false
     },
     {
         "name": "Malhar Industries- CRM and HR Automation(Nagpur)",
@@ -7176,7 +8138,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Manikgarh Cement-Chemical(Chandrapur)",
@@ -7198,7 +8161,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Manikgarh cement-Electrical & Electronics(Chandrapur)",
@@ -7220,7 +8184,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Manikgarh Cement-Mechanical(Chandrapur)",
@@ -7242,7 +8207,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "MapmyIndia- Marketing(Bangalore)",
@@ -7264,7 +8230,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Mazo solutions- Analytics(Chennai)",
@@ -7286,7 +8253,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Medcords- Business Analysis(Pune)",
@@ -7308,7 +8276,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Medcords- content writing(Pune)",
@@ -7330,7 +8299,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Medcords- Digital marketing(Pune)",
@@ -7352,7 +8322,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Medcords- Graphic designing(Pune)",
@@ -7374,7 +8345,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Medcords- Quality Analysis(Pune)",
@@ -7396,7 +8368,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Medcords- Research in finance(Pune)",
@@ -7418,7 +8391,8 @@
         ],
         "branches": [
             "B3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Medsupervision Pvt. Ltd - App/AR/VR(Faridabad)",
@@ -7444,7 +8418,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Medsupervision- Digital marketing(Faridabad)",
@@ -7466,7 +8441,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Medsupervision-Mobile Appl Development(Faridabad)",
@@ -7488,7 +8464,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "MELSS - Industrial Automation & Control(Chennai)",
@@ -7516,7 +8493,8 @@
             "A7",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Million Sparks Foundation -social media Marketing(Noida)",
@@ -7538,7 +8516,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Million Sparks Foundation content creation(Noida)",
@@ -7560,7 +8539,66 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Modish Tractor Aurkisan Pvt. Ltd ( Balwaan Agri Power Tools) (Jaipur)",
+        "industry": "Finance and Mgmt",
+        "location": "Jaipur",
+        "stationId": "6008",
+        "companyId": "5709",
+        "projects": [
+            {
+                "title": "Research for Agriculture Machineries & Tools",
+                "description": "Trends in development towards modular agriculture machines. It include refinement of existing designs of farm tools and equipment by using Computer Aided Design facility with the involvement of farmers and manufacturers, development of high capacity machines like multirow weeder for wide row crops, Equipments for orchard tree crop management, vegetable transplanting and clearing of banana crop residues after harvest.* Outcome : Research should based on some logical rationale and tied to theory.",
+                "requiredSkills": "Firebase , Flutter , Git , Native Android and IOS",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            },
+            {
+                "title": "Project on Mobile Application Development",
+                "description": "This Project Help you to build cross platform mobile apps for Android, OS and Web. This Should includes from making responsive Uls to efficiently query data and also manage states in an optimized manner.* outcome : No Pilagrism.",
+                "requiredSkills": "Firebase , Flutter , Git , Native Android and IOS",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "MSys Technologies - Tech(Chennai)",
+        "industry": "Computer Science",
+        "location": "Chennai",
+        "stationId": "5395",
+        "companyId": "5098",
+        "projects": [
+            {
+                "title": "-",
+                "description": "-",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A7",
+                    "C6"
+                ]
+            }
+        ],
+        "branches": [
+            "A7",
+            "C6"
+        ],
+        "new": true
     },
     {
         "name": "MSys Technologies- General Management(Chennai)",
@@ -7582,7 +8620,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "MTAB Engineers Pvt Ltd - Industrial Automation and Control (Tiruvallur)",
@@ -7604,7 +8643,8 @@
         ],
         "branches": [
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "MTAB Engineers Pvt Ltd- Manufacturing(Tiruvallur)",
@@ -7626,7 +8666,8 @@
         ],
         "branches": [
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Multigraphics - Artificial Intelligence(New delhi)",
@@ -7648,7 +8689,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Multigraphics - ERP(New delhi)",
@@ -7670,7 +8712,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Multigraphics Group- Digital marketing(New delhi)",
@@ -7692,7 +8735,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Multigraphics Group- Market Research(New delhi)",
@@ -7714,7 +8758,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Multigraphics Group- Project management(New delhi)",
@@ -7736,7 +8781,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Multigraphics Group- Student behavioral analysis(New delhi)",
@@ -7758,7 +8804,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Nandi Group ( Sujala Pipe Pvt. Ltd )-Chemical(Nandyal)",
@@ -7780,7 +8827,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Nandi Group ( Sujala Pipe Pvt. Ltd )-Civil(Nandyal)",
@@ -7802,7 +8850,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Nandi Group ( Sujala Pipe Pvt. Ltd )-Electronics & Instrumentation(Nandyal)",
@@ -7826,7 +8875,8 @@
         "branches": [
             "A3",
             "A8"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Nandi Group ( Sujala Pipe Pvt. Ltd )-Manufacturing(Nandyal)",
@@ -7848,7 +8898,8 @@
         ],
         "branches": [
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Nathdwara Cement Works-Chemical(Sirohi)",
@@ -7870,7 +8921,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Nathdwara Cement Works-Electrical & Electronics(Sirohi)",
@@ -7892,7 +8944,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Nathdwara Cement Works-Mechanical(Sirohi)",
@@ -7914,7 +8967,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "National Centre For Polar And Ocean Research- Data Analytics, Machine Learning(Goa)",
@@ -7940,7 +8994,8 @@
             "Any",
             "B5",
             "B4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "National Chemical Laboratory-Chemical (Bioinformatics)(Pune)",
@@ -7962,7 +9017,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "National Chemical Laboratory-Chemical (Process modeling)(Pune)",
@@ -7984,7 +9040,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "National Chemical Laboratory-Computer science(Pune)",
@@ -8006,69 +9063,8 @@
         ],
         "branches": [
             "A7"
-        ]
-    },
-    {
-        "name": "National Informatics Center (NIC)(Hyderabad)",
-        "industry": "Computer Science",
-        "location": "Hyderabad",
-        "stationId": "2804",
-        "companyId": "2528",
-        "projects": [
-            {
-                "title": "ePDS",
-                "description": "1) Public Distribution System.Good knowledge of SQL.",
-                "requiredSkills": "Django , Hibernate , Java , Mapbox , Python , Web Services Knowledge",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            },
-            {
-                "title": "Android Mobile App Development",
-                "description": "Mobile App Development for scanning documents. Advanced Java, Hibernate, Web Services Skill Set Req. Good knowledge of SQL",
-                "requiredSkills": "-",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            },
-            {
-                "title": "Quiz Portal",
-                "description": "Quiz Portal where graphic quizzes can be created by Admins /Teachers and students can learn. Other Competencies: Good knowledge of SQL Skills Req. Python, Django, Mapbox",
-                "requiredSkills": "-",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            },
-            {
-                "title": "Testing Tools",
-                "description": "To develop tool for GIGW compliance Skills Required: Python, Django, Java Other Competencies: Good knowledge of SQL",
-                "requiredSkills": "-",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            },
-            {
-                "title": "Android Mobile App Development for Agriculture Dept",
-                "description": "Skills Req. Advanced Java, Hibernate, Web Services Other Competenceis: Good knowledge of SQL",
-                "requiredSkills": "-",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            }
         ],
-        "branches": [
-            "Any"
-        ]
+        "new": false
     },
     {
         "name": "National Institute of Oceanography - Industrial Automation & Control(Goa)",
@@ -8118,7 +9114,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "National Institute of Oceanography -Embedded Systems/IoT(Goa)",
@@ -8156,7 +9153,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "National Institute of Oceanography -Machine Learning/DSP/AI(Goa)",
@@ -8194,63 +9192,51 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
-        "name": "National Institute of Rural Development & Panchayati Raj - Civil Engineerin(Hyderabad )",
-        "industry": "Finance and Mgmt",
-        "location": "Hyderabad",
-        "stationId": "5764",
-        "companyId": "5465",
+        "name": "National Stock Exchange(Mumbai)",
+        "industry": "Computer Science",
+        "location": "Mumbai",
+        "stationId": "6005",
+        "companyId": "5706",
         "projects": [
             {
-                "title": "Housing technologies",
-                "description": "Creating low- cost, affordable, housing technologies",
+                "title": "Member Holding Pattern Recognition",
+                "description": "Work on DWH tools",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
                 "preferredDisciplines": [
-                    "A2"
+                    "Any"
                 ]
-            }
-        ],
-        "branches": [
-            "A2"
-        ]
-    },
-    {
-        "name": "National Institute of Rural Development & Panchayati Raj - IT(Hyderabad)",
-        "industry": "Finance and Mgmt",
-        "location": "Hyderabad",
-        "stationId": "3710",
-        "companyId": "3427",
-        "projects": [
+            },
             {
-                "title": "The projects will be based on the following: 1. Research on Artificial Intelligence 2. Software Solution Development 3. Creating database for different projects of NIRD&PR 4. Creating low-cost, affordable, housing technologies 5. Data Analytics 6. Prediction Analysis 7. Improving existing ERP, website, etc. 8. Digital Innovation",
-                "description": "The projects will be based on the following: 1. Research on Artificial Intelligence 2. Software Solution Development 3. Creating database for different projects of NIRD&PR 4. Creating low-cost, affordable, housing technologies 5. Data Analytics 6. Prediction Analysis 7. Improving existing ERP, website, etc. 8. Digital Innovation.1. Analytical bent of mind 2. On-time Delivery of work assigned 3. Commitment and sincerity 4. Maintaining confidentiality of the information shared with them.",
+                "title": "Client Margin Pattern Recognition",
+                "description": "Work on DWH tools",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
                 "preferredDisciplines": [
-                    "A2",
-                    "A3",
-                    "A4",
-                    "A7",
-                    "A8",
-                    "AA",
-                    "C6"
+                    "Any"
+                ]
+            },
+            {
+                "title": "Listing Ceremony automation",
+                "description": "Listing Ceremony is the event when company get listed on Exchange. This requires capturing company details/profiles along with other details. * outcomes : With the objective of using Content Management System for listing ceremony and reading prices through MQTT, this project can be taken up by the candidate",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
                 ]
             }
         ],
         "branches": [
-            "A2",
-            "A3",
-            "A4",
-            "A7",
-            "A8",
-            "AA",
-            "C6"
-        ]
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "NCCBM-Chemical(Ballabgarh)",
@@ -8272,7 +9258,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "NCCBM-Civil(Ballabgarh)",
@@ -8294,7 +9281,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "NCCBM-EEE/E&I/E&C(Ballabgarh)",
@@ -8320,7 +9308,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "NCCBM-Mechanical(Ballabgarh)",
@@ -8342,7 +9331,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Needl.ai- Data Analytics(Bangalore)",
@@ -8364,7 +9354,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "NIC- Mobile App development(Hyderabad )",
@@ -8396,7 +9387,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "NIC- Public Distribution System Operations(Hyderabad )",
@@ -8418,7 +9410,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "NIC-Web development(Hyderabad )",
@@ -8450,7 +9443,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Nihon Communication Solutions Pvt. Ltd - Embebdded Systems/IoT(Bangalore)",
@@ -8512,7 +9506,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Nippon Paint-Mechanical(Chennai)",
@@ -8534,7 +9529,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "NIRDPM- Analytics and IT Management(Hyderabad )",
@@ -8556,7 +9552,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "NIRDPM- Civil(Hyderabad )",
@@ -8578,29 +9575,8 @@
         ],
         "branches": [
             "A2"
-        ]
-    },
-    {
-        "name": "NIVEA India Pvt.Ltd.-Operations Management(Bangalore)",
-        "industry": "Finance and Mgmt",
-        "location": "Bangalore",
-        "stationId": "4208",
-        "companyId": "3916",
-        "projects": [
-            {
-                "title": "-",
-                "description": "-",
-                "requiredSkills": "-",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            }
         ],
-        "branches": [
-            "Any"
-        ]
+        "new": false
     },
     {
         "name": "North Eastern Space - Compiler Design/Geo Processing/Machine Learning(Umiam )",
@@ -8628,7 +9604,8 @@
             "A7",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "North Eastern Space - Deep Learning/Machine Learning(Umiam )",
@@ -8656,7 +9633,8 @@
             "A7",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "North Eastern Space - Software Development(Umiam )",
@@ -8697,7 +9675,33 @@
             "A7",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "NPBridge Solutions Private Limited(Bangalore)",
+        "industry": "Computer Science",
+        "location": "Bangalore",
+        "stationId": "5440",
+        "companyId": "5141",
+        "projects": [
+            {
+                "title": "-",
+                "description": "-",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A3",
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A3",
+            "A7"
+        ],
+        "new": true
     },
     {
         "name": "NTPC-Chemical(Dadri)",
@@ -8719,7 +9723,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "NTPC-Mechanical(Dadri)",
@@ -8741,7 +9746,104 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Pacify Medical Technology Pvt. Ltd - Mechatronics(Mumbai)",
+        "industry": "Electronics",
+        "location": "Mumbai",
+        "stationId": "6031",
+        "companyId": "5732",
+        "projects": [
+            {
+                "title": "Electromechanical design of component for for surgical device",
+                "description": "Skin spray gun is a portable surgical device, which expands the skin up to 1:30, helping plastic surgeons to cover large burn wound with limited healthy skin in the process of skin grafting. It gently delivers skin tissue mixed in a solution over the burn wound with controlled airflow through a sterilizable spray head, and generate solution droplet containing skin tissues. - Electronic PCB design - Mechanical CAD - Design for Manufacturing and Design for assembly. - Knowledge of fluid mechanics, mechanism design, design of machine components. Interest to work in biomedical systems with doctors",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A3",
+                    "A8",
+                    "AA"
+                ]
+            }
+        ],
+        "branches": [
+            "A3",
+            "A8",
+            "AA"
+        ],
+        "new": true
+    },
+    {
+        "name": "Paramartha Advisors- Marketing(New delhi)",
+        "industry": "Finance and Mgmt",
+        "location": "New delhi",
+        "stationId": "6030",
+        "companyId": "5731",
+        "projects": [
+            {
+                "title": "Marketing",
+                "description": "Marketing",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "Patch over Patch - Business Development(Surat )",
+        "industry": "Finance and Mgmt",
+        "location": "Surat",
+        "stationId": "6036",
+        "companyId": "5737",
+        "projects": [
+            {
+                "title": "BUSINESS DEVELOPMENT",
+                "description": "1. Search & present the company to new partners 2. Curating emails & communicate with partners 3. Brand strategy",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "Patch over Patch - Website design(Surat )",
+        "industry": "Finance and Mgmt",
+        "location": "Surat",
+        "stationId": "6035",
+        "companyId": "5736",
+        "projects": [
+            {
+                "title": "WEBSITE DEVELOPMENT",
+                "description": "1. Curating content for website. 2. User experience 3. Managing data",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Persistent Systems Ltd.,Verna - Machine Learning(Goa)",
@@ -8763,7 +9865,31 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Petasense Technologies Pvt. Ltd.(Bangalore)",
+        "industry": "Computer Science",
+        "location": "Bangalore",
+        "stationId": "6019",
+        "companyId": "5720",
+        "projects": [
+            {
+                "title": "Automation/Tools Development for ARO Cloud Infrastructure",
+                "description": "The Projects aims at developing the tools that would aid day-to-day software development, debugging and testing of key software components in ARO cloud.*Other competencies : Strong Aptitude, Logical reasoning.* outcomes : Working software in a shape that can be consumed internally by team members and meeting the requirements.",
+                "requiredSkills": "Basic Algos , DSP , Programming Software , Python",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Pilani AtmaNirbhar Resource Center (PARC)- Communication(Pilani)",
@@ -8785,7 +9911,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Pilani AtmaNirbhar Resource Center (PARC)- Digital Literacy(Pilani)",
@@ -8807,7 +9934,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Pilani AtmaNirbhar Resource Center (PARC)- Photography(Pilani)",
@@ -8829,7 +9957,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Pilani AtmaNirbhar Resource Center (PARC)- Spatial mapping(Pilani)",
@@ -8851,7 +9980,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Pipe Candy -Business Analytics(Chennai)",
@@ -8873,7 +10003,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Pipe Candy -Industrial Research(Chennai)",
@@ -8895,7 +10026,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Pipe Candy -Marketing(Chennai)",
@@ -8917,7 +10049,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Plastic water lab-Electronics(Bangalore)",
@@ -8927,8 +10060,8 @@
         "companyId": "5591",
         "projects": [
             {
-                "title": "Electronics, Instrumentation",
-                "description": "Actuators & sensors, IoT",
+                "title": "Augmented Reality for technicians",
+                "description": "Augmented Reality for technicians",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
@@ -8937,13 +10070,27 @@
                     "A8",
                     "AA"
                 ]
+            },
+            {
+                "title": "Machine learning for defect analysis",
+                "description": "Machine learning for defect analysis",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A3",
+                    "A4",
+                    "A8"
+                ]
             }
         ],
         "branches": [
             "A3",
             "A8",
-            "AA"
-        ]
+            "AA",
+            "A4"
+        ],
+        "new": false
     },
     {
         "name": "Plastic water lab-Mechanical(Bangalore)",
@@ -8953,8 +10100,8 @@
         "companyId": "5592",
         "projects": [
             {
-                "title": "Mechanical",
-                "description": "AR/VR models",
+                "title": "Computer Vision for operations",
+                "description": "Computer Vision for operations",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
@@ -8965,7 +10112,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Plastic Water Labs - Actuators and Sensors in IoT(Bangalore)",
@@ -8975,8 +10123,8 @@
         "companyId": "4445",
         "projects": [
             {
-                "title": "--",
-                "description": "-",
+                "title": "Developing an IoT enabled device for our IOT lab.",
+                "description": "Developing an IoT enabled device for our IOT lab.",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
@@ -8991,7 +10139,8 @@
             "A3",
             "A4",
             "A8"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Platifi Solutions - Full Stack Development(Bangalore)",
@@ -9015,7 +10164,8 @@
         "branches": [
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Power Grid Corporation - Electrical Power Systems(Nagpur)",
@@ -9041,7 +10191,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Prakriti Organics - Website Upgradation or enhancement(Bilaspur )",
@@ -9063,7 +10214,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Prama Instruments Private Limited - Industrial Control & Automation(Mumbai)",
@@ -9089,7 +10241,33 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Praveen Laboratories Pvt. Ltd.(Surat )",
+        "industry": "Health Care",
+        "location": "Surat",
+        "stationId": "3917",
+        "companyId": "3633",
+        "projects": [
+            {
+                "title": "Synthetic & analytical chemistry",
+                "description": "Synthetic & analytical chemistry",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A5",
+                    "B2"
+                ]
+            }
+        ],
+        "branches": [
+            "A5",
+            "B2"
+        ],
+        "new": true
     },
     {
         "name": "PreludeSys- analysis of helpdesk tickets(Chennai)",
@@ -9111,7 +10289,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Preludesys- Data Analytics(Chennai)",
@@ -9169,7 +10348,8 @@
             "A7",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "PreludeSys- IT helpdesk analysis(Chennai)",
@@ -9191,7 +10371,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "PreludeSys- marketing and inside sales analytics(Chennai)",
@@ -9213,7 +10394,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "PreludeSys- People analytics dashboard(Chennai)",
@@ -9235,7 +10417,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "PreludeSys- Presales data analytics(Chennai)",
@@ -9257,7 +10440,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Preto Tooling Systems-Mechanical(Hyderabad )",
@@ -9279,7 +10463,79 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Prodapt(Chennai)",
+        "industry": "Computer Science",
+        "location": "Chennai",
+        "stationId": "5446",
+        "companyId": "5147",
+        "projects": [
+            {
+                "title": "-",
+                "description": "-",
+                "requiredSkills": "AI , Angular , Java , ML , Python",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A7",
+                    "C6"
+                ]
+            }
+        ],
+        "branches": [
+            "A7",
+            "C6"
+        ],
+        "new": true
+    },
+    {
+        "name": "Proficiency Learning Solutions - Marketing collateral creation(New delhi)",
+        "industry": "IT",
+        "location": "New delhi",
+        "stationId": "6029",
+        "companyId": "5730",
+        "projects": [
+            {
+                "title": "Marketing collateral creation",
+                "description": "Marketing collateral creation",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
+    },
+    {
+        "name": "Proficiency Learning Solutions - Training module development(New delhi)",
+        "industry": "IT",
+        "location": "New delhi",
+        "stationId": "6028",
+        "companyId": "5729",
+        "projects": [
+            {
+                "title": "Training module development",
+                "description": "Training module development",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Proindia Healthcare LLP- Business Development(Pune)",
@@ -9301,7 +10557,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Proindia Healthcare LLP- Website enhancement(Pune)",
@@ -9323,7 +10580,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Purchasing Power - Web Development/UI Development(Chennai)",
@@ -9353,7 +10611,58 @@
             "A7",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Purchasing Power IT & Business Solutions India LLP(Chennai)",
+        "industry": "Computer Science",
+        "location": "Chennai",
+        "stationId": "5388",
+        "companyId": "5091",
+        "projects": [
+            {
+                "title": "1) eCommerce Portal / Mobile Apps 2) Preference is for UI but can be in UI or server side or both depending on student skills",
+                "description": "Project involves working with development & maintenance of one or more of the following areas to support our eCommerce portal www.purchasingpower.com using • Angular JS / HTML/CSS • Java, Spring, SAP Hybris with Oracle DB *iOS, Android, PWA *Hands on programming with one or more of the languages mentioned in the project description.*Students will understand the eCommerce domain from a technology perspective, real world Agile development, opportunity to work with one of the best technology people.*Any specific courses that student:- Mandatory – Core Java/J2EE, OOA Optional - HTML/CSS, JavaScript, DBMS, Mobile",
+                "requiredSkills": "Angular , Core Java , CSS , HTML , spring",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            },
+            {
+                "title": "E-commerce web dev, UI dev or Mobile app dev",
+                "description": "E-commerce web dev, UI dev or Mobile app dev. Project involves working with development & maintenance of one or more of the following areas to support our eCommerce portal www.purchasingpower.com using • Angular JS / HTML/CSS • Java, Spring, SAP Hybris with Oracle DB • iOS, Android, PWA Core Java, Spring, HTML/CSS, Angular. Hands-on programming with one or more of the languages mentioned in the project description. Mandatory – Core Java/J2EE, OOA Optional - HTML/CSS, JavaScript, DBMS, Mobile Development Students will understand the eCommerce domain from a technology perspective, real world Agile development, opportunity to work with one of the best technology people",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A3",
+                    "A7",
+                    "A8",
+                    "AA"
+                ]
+            },
+            {
+                "title": "Preference is for UI but can be in UI or server side or both depending on student skills",
+                "description": "Preference is for UI but can be in UI or server side or both depending on student skills",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any",
+            "A3",
+            "A7",
+            "A8",
+            "AA"
+        ],
+        "new": true
     },
     {
         "name": "Pyrotech Electronics Pvt. Ltd - Embedded Systems/IoT(Udaipur)",
@@ -9379,7 +10688,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Pyrotech Electronics Pvt. Ltd - Industrial Automation & Control(Udaipur)",
@@ -9405,7 +10715,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Race2Cloud Technologies - Software Development(Bangalore)",
@@ -9427,7 +10738,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Race2Cloud Technologies Pvt. Ltd. - Apps on Zoho Creator(Bangalore)",
@@ -9449,7 +10761,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rajshree Cement-Chemical(Malkhed)",
@@ -9471,7 +10784,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rajshree Cement-Civil(Malkhed)",
@@ -9493,7 +10807,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rajshree Cement-Electrical & Electronics(Malkhed)",
@@ -9515,7 +10830,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rajshree Cement-Mechanical(Malkhed)",
@@ -9537,7 +10853,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Ramco Steels Pvt. Ltd- Manufacturing(Faridabad)",
@@ -9559,7 +10876,8 @@
         ],
         "branches": [
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rashiv Cloud Solutions- Social media and research(Bangalore)",
@@ -9581,7 +10899,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rawan Cement Works-Chemical(raipur)",
@@ -9603,7 +10922,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rawan Cement Works-Civil(raipur)",
@@ -9625,7 +10945,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rawan Cement Works-Electrical & Electronics(raipur)",
@@ -9647,7 +10968,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rawan Cement Works-Mechanical(raipur)",
@@ -9669,7 +10991,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rebus Research - Web Development(Mumbai)",
@@ -9697,7 +11020,8 @@
             "A7",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rebus Research Financial Services(Stratzy) - Business development(Mumbai)",
@@ -9719,7 +11043,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rebus Research Financial Services(Stratzy) - Marketing(Mumbai)",
@@ -9741,7 +11066,31 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Redpine Signals India Pvt. Ltd. DBA Ceremorphic India Pvt. Ltd.(Hyderabad)",
+        "industry": "IT",
+        "location": "Hyderabad",
+        "stationId": "6003",
+        "companyId": "5704",
+        "projects": [
+            {
+                "title": "Study and publish the survey papers.",
+                "description": "Technologies to study : 1. FPGA designs 2D/3D architectures 2. Composable Computing SW architectures and tools for FPGA HW * outcomes: Study and Survey on above mentioned technologies in form of presentations/notes/papers",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Regional Remote Sensing Centre(Jodhpur)",
@@ -9769,29 +11118,8 @@
             "A7",
             "A8",
             "AA"
-        ]
-    },
-    {
-        "name": "Renu Electronics Pvt Ltd(Pune)",
-        "industry": "Electronics",
-        "location": "Pune",
-        "stationId": "220",
-        "companyId": "205",
-        "projects": [
-            {
-                "title": "-",
-                "description": "-",
-                "requiredSkills": "-",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            }
         ],
-        "branches": [
-            "Any"
-        ]
+        "new": false
     },
     {
         "name": "Roads and Buildings Department - Govt of Telangana(Hyderabad )",
@@ -9813,7 +11141,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rourkela Steel Plant-Chemical(Rourkela )",
@@ -9835,7 +11164,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rourkela Steel Plant-Civil(Rourkela )",
@@ -9857,7 +11187,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rourkela Steel Plant-EEE/Instrumentation/communication(Rourkela )",
@@ -9883,7 +11214,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Rourkela Steel Plant-Mechanical(Rourkela )",
@@ -9905,7 +11237,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "SAMIL- Car Trade exchange business(Delhi)",
@@ -9927,7 +11260,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "SAMIL- Finance(Delhi)",
@@ -9949,7 +11283,8 @@
         ],
         "branches": [
             "B3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "SAMIL- Market Research(Delhi)",
@@ -9971,7 +11306,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "SAMIL- Vehicle recommendation system(Delhi)",
@@ -9993,7 +11329,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sawolabs Technologies - Software Development(Bangalore)",
@@ -10015,7 +11352,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sawolabs Technologies- Market research(Bangalore)",
@@ -10037,7 +11375,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sawolabs- Developer Advocacy(Bangalore)",
@@ -10059,7 +11398,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "ScoVelo Consulting - App/AR/VR(Chennai)",
@@ -10092,7 +11432,8 @@
         "branches": [
             "A3",
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Semi- conductor laboratoty - VLSI Design/Circuit Design(Mohali )",
@@ -10114,7 +11455,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "SenRa Tech Pvt Ltd - Embedded Systems/IoT(Delhi)",
@@ -10140,7 +11482,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Shalaka Connected Devices LLP - App/AR/VR(Pune)",
@@ -10177,7 +11520,8 @@
             "A8",
             "AA",
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Shalaka Connected Devices LLP - Embedded Systems/IoT(Pune)",
@@ -10236,7 +11580,8 @@
             "AA",
             "A7",
             "A8"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Shalaka Connected Devices-Mechanical/Manufacturing(Pune)",
@@ -10260,7 +11605,8 @@
         "branches": [
             "A4",
             "AB"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "SharedPro Technologies- Community Building(Vadodara )",
@@ -10282,7 +11628,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Shell Group (HSSE) - Civil (Bangalore)",
@@ -10304,7 +11651,31 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Shris Infotech Services Pvt Ltd(Hyderabad)",
+        "industry": "Computer Science",
+        "location": "Hyderabad",
+        "stationId": "5433",
+        "companyId": "5134",
+        "projects": [
+            {
+                "title": "-",
+                "description": "-",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Sidhi Cement Works-Chemical(Sidhi (MP))",
@@ -10326,7 +11697,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sidhi Cement Works-Civil(Sidhi (MP))",
@@ -10348,7 +11720,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sidhi Cement Works-Electrical & Electronics(Sidhi (MP))",
@@ -10370,7 +11743,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sidhi Cement Works-Mechanical(Sidhi (MP))",
@@ -10392,7 +11766,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Silver Touch Technologies Ltd(Ahmedabad )",
@@ -10414,7 +11789,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Smartlink Holdings Ltd ( Digisol Systems Ltd )(Goa)",
@@ -10438,7 +11814,8 @@
         "branches": [
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "SNS TECHNOSYS LLP - Embedded Systems/IoT(Pune)",
@@ -10476,7 +11853,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Solar Energy Corporation of India-Civi(Delhi)",
@@ -10498,7 +11876,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Solar Energy Corporation of India-Mechanical(Delhi)",
@@ -10520,7 +11899,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "STAR Engineers India - Embedded Systems/IoT(Pune)",
@@ -10544,7 +11924,8 @@
         "branches": [
             "A3",
             "A8"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "STEM4ALL-Mathematics(Usa)",
@@ -10566,7 +11947,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sud-Chemie India Pvt.Ltd-Catalysis and carbon capture(Vadodara )",
@@ -10590,7 +11972,8 @@
         "branches": [
             "A1",
             "B2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sud-Chemie India Pvt.Ltd-CFD analysis(Vadodara )",
@@ -10612,7 +11995,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sud-Chemie India Pvt.Ltd-Design of extruder and molecular sieves(Vadodara )",
@@ -10636,7 +12020,8 @@
         "branches": [
             "A1",
             "B2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sud-Chemie India Pvt.Ltd-Kinetic modeling(Vadodara )",
@@ -10658,7 +12043,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Sud-Chemie India Pvt.Ltd-Zeolites(Vadodara )",
@@ -10682,7 +12068,8 @@
         "branches": [
             "A1",
             "B2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Suzlon Energy- Branding campaigns and strategy(Pune)",
@@ -10704,7 +12091,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Suzlon Foundation - Documentation and Analysis(Pune)",
@@ -10726,7 +12114,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Swami Vivekanand Gujarat Rajya Yuva Board- Research, Policy and Copywriting(Ahmedabad )",
@@ -10748,7 +12137,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Swecha - Shell Programming(Gachibowli )",
@@ -10770,7 +12160,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Swecha - Web Development(Gachibowli )",
@@ -10822,7 +12213,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Swecha Machine Learning(Gachibowli )",
@@ -10844,7 +12236,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Swecha - Speech Recognition(Gachibowli )",
@@ -10866,7 +12259,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Swiggy - Software Development(Bangalore)",
@@ -10888,7 +12282,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Synchrony International - Data Analytics(Hyderabad )",
@@ -10918,37 +12313,8 @@
             "A8",
             "AA",
             "C6"
-        ]
-    },
-    {
-        "name": "Synchrony International Services Pvt Ltd(Hyderabad)",
-        "industry": "Computer Science",
-        "location": "Hyderabad",
-        "stationId": "5427",
-        "companyId": "5128",
-        "projects": [
-            {
-                "title": "Bridget.Priya@syf.com",
-                "description": "1) Evaluation of various tools used in the data science platforms for analytics. Data Visualization. Students will understand the technologies used in data science/analytics in an enterprise environment. *Any specific courses that student should have undertaken :- Programming related courses",
-                "requiredSkills": "Coding , Good Programming skills , Java/Python",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "A3",
-                    "A7",
-                    "A8",
-                    "AA",
-                    "C6"
-                ]
-            }
         ],
-        "branches": [
-            "A3",
-            "A7",
-            "A8",
-            "AA",
-            "C6"
-        ]
+        "new": false
     },
     {
         "name": "Takshila Learning - IT(New delhi)",
@@ -10970,7 +12336,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Takshila Learning- Business intelligence(New delhi)",
@@ -10992,7 +12359,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Takshila Learning- Operations(New delhi)",
@@ -11014,7 +12382,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Takshila learning- Value education(New delhi)",
@@ -11036,7 +12405,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Tamil nadu Startup & Innovation Mission(Startuo TN), EDII -TN(Chennai)",
@@ -11058,7 +12428,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Tamil nadu Startup & Innovation Mission- Strategy Consulting(Chennai)",
@@ -11080,7 +12451,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "TDF The diamond factory (I) Pvt Ltd - Business Development(Mumbai)",
@@ -11102,7 +12474,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Telangana e-governance - Software Development(Hyderabad )",
@@ -11124,29 +12497,8 @@
         ],
         "branches": [
             "Any"
-        ]
-    },
-    {
-        "name": "TNSTC - Digital Content - Astronomy(Chennai)",
-        "industry": "Computer Science",
-        "location": "Chennai",
-        "stationId": "4298",
-        "companyId": "4004",
-        "projects": [
-            {
-                "title": "Hardware and Software based interactive projects",
-                "description": "AR,VR, Remote switch, Interactive floor etc. To develop interactive systems for science museum. Any Specific courses that student should have undertaken :-Software like unity, Vuforia etc.",
-                "requiredSkills": "Computer Software open Source",
-                "broadArea": "-",
-                "preferredCourseReq": "-",
-                "preferredDisciplines": [
-                    "Any"
-                ]
-            }
         ],
-        "branches": [
-            "Any"
-        ]
+        "new": false
     },
     {
         "name": "TNSTC - Digital Content - Astronomy - App/AR/VR(Chennai)",
@@ -11172,7 +12524,8 @@
             "A3",
             "A8",
             "AA"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Ultratech Cement Limited-Chemical(Jafrabad)",
@@ -11194,7 +12547,8 @@
         ],
         "branches": [
             "A1"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Ultratech Cement Limited-Civil(Jafrabad)",
@@ -11216,7 +12570,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Ultratech Cement Limited-Electrical & Electronics(Jafrabad)",
@@ -11238,7 +12593,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Ultratech Cement Limited-Mechanical(Jafrabad)",
@@ -11260,7 +12616,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Ultratech Cement Ltd- Electronics & Instrumentation(Kotputli)",
@@ -11282,7 +12639,8 @@
         ],
         "branches": [
             "A8"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Ultratech Cement Ltd-Mechanical(Kotputli)",
@@ -11304,7 +12662,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Urjanet - Data Analytics(Chennai)",
@@ -11326,7 +12685,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Urjanet - Software Development(Chennai)",
@@ -11350,7 +12710,8 @@
         "branches": [
             "A7",
             "C6"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Urjanet- Quality assurance(Chennai)",
@@ -11372,7 +12733,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "UST Global - Machine Learning(Trivandrum)",
@@ -11404,7 +12766,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "UST Global - Machine Learning/DSP/AI(Trivandrum)",
@@ -11426,7 +12789,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "UST Global - Research/Blockchain(Trivandrum)",
@@ -11448,7 +12812,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "UST Global - VLSI Design/Circuit Design(Trivandrum)",
@@ -11470,7 +12835,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vasantha Tool Crafts Pvt Limited-Mechanical(Hyderabad )",
@@ -11492,7 +12858,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "VComply - Data Analytics(Kolkata)",
@@ -11514,7 +12881,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "VComply - Mobile Applications(Kolkata)",
@@ -11546,7 +12914,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "VComply - Mobile Applications/NLP(Kolkata)",
@@ -11568,7 +12937,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "VComply - Software Development(Kolkata)",
@@ -11600,7 +12970,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vidcentum R & D Pvt - Machine Learning/DSP/AI(Hyderabad )",
@@ -11633,7 +13004,8 @@
         "branches": [
             "A3",
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram Cement Works - Industrial Automation & Control(Neemuch )",
@@ -11668,7 +13040,8 @@
         "branches": [
             "A3",
             "A8"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works- Civil (Inventory management)(Neemuch )",
@@ -11690,7 +13063,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works-Civil (Resource optimization)(Neemuch )",
@@ -11712,7 +13086,8 @@
         ],
         "branches": [
             "A2"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works-Electrical & Electronics(Neemuch )",
@@ -11734,7 +13109,8 @@
         ],
         "branches": [
             "A3"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works-Mechanical (Digitalization)(Neemuch )",
@@ -11756,7 +13132,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works-Mechanical (Hazard idntification)(Neemuch )",
@@ -11778,7 +13155,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works-Mechanical (Maintenance)(Neemuch )",
@@ -11800,7 +13178,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works-Mechanical (Organizational effectiveness)(Neemuch )",
@@ -11822,7 +13201,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works-Mechanical (Safety and enviornment)(Neemuch )",
@@ -11844,7 +13224,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works-Mechanical (Training modules)(Neemuch )",
@@ -11866,7 +13247,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Vikram cement works-Mechanical (Utility)(Neemuch )",
@@ -11888,7 +13270,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Village Book Builders,Mapleton, UT, USA-Backend Development(Usa)",
@@ -11910,7 +13293,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Village Book Builders,Mapleton, UT, USA-Front End Development(Usa)",
@@ -11932,7 +13316,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Village Book Builders,Mapleton, UT, USA-Web Analytics and Optimizatiom(Usa)",
@@ -11954,7 +13339,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Village book builders- IT networking(Usa)",
@@ -11976,7 +13362,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Village book builders- Operations automation(Usa)",
@@ -11998,7 +13385,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Viram Technologies Enterprises - Mechanical (Automation design)(Pune)",
@@ -12020,7 +13408,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Viram Technologies Enterprises - Mechanical (Finite Element Analysis)(Pune)",
@@ -12042,7 +13431,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Viram Technologies Enterprises - Mechanical (Piping and thermal analysis)(Pune)",
@@ -12064,7 +13454,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Viram Technologies Enterprises - Mechanical (Process equipment design)(Pune)",
@@ -12086,7 +13477,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Viram Technologies Enterprises - Mechanical (structure analysis)(Pune)",
@@ -12108,7 +13500,8 @@
         ],
         "branches": [
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "VoiceQube - Software Development(Bangalore)",
@@ -12130,7 +13523,31 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Wadia Institute Of Himalayan Geology(Dehradun)",
+        "industry": "Infrastructure",
+        "location": "Dehradun",
+        "stationId": "52",
+        "companyId": "262",
+        "projects": [
+            {
+                "title": "modelling of seismic and othrr geophysical data to understand the hazard potential in the himalayan region..",
+                "description": "modelling of seismic and other geophysical data to understand the hazard potential in the Himalayan region..",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A7"
+                ]
+            }
+        ],
+        "branches": [
+            "A7"
+        ],
+        "new": true
     },
     {
         "name": "WEBiROID Technology & Consultancy Services - Infographics design(Kolkata)",
@@ -12152,7 +13569,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Content development(Kolkata)",
@@ -12174,7 +13592,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Digital Marketing(Kolkata)",
@@ -12196,7 +13615,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Investment Research(Kolkata)",
@@ -12218,18 +13638,87 @@
         ],
         "branches": [
             "B3"
-        ]
+        ],
+        "new": false
     },
     {
-        "name": "William O Neil - Data Analytics(Bangalore)",
-        "industry": "Finance and Mgmt",
-        "location": "Bangalore",
-        "stationId": "4565",
-        "companyId": "4271",
+        "name": "WeSwap Mobility Solutions - App Development(Indore )",
+        "industry": "Electronics",
+        "location": "Indore",
+        "stationId": "6032",
+        "companyId": "5733",
         "projects": [
             {
-                "title": "-",
-                "description": "-",
+                "title": "Android / IOs based application for customer",
+                "description": "An app used by customers with the following functions: check the SoC of the battery, locate the nearest WeSwap stations, selection of number of batteries, electronic payment etc. App development, requirement engineering, agile development, programming languages",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A3",
+                    "A7",
+                    "A8",
+                    "AA"
+                ]
+            }
+        ],
+        "branches": [
+            "A3",
+            "A7",
+            "A8",
+            "AA"
+        ],
+        "new": true
+    },
+    {
+        "name": "WeSwap Mobility Solutions - Electronics(Indore )",
+        "industry": "Electronics",
+        "location": "Indore",
+        "stationId": "6033",
+        "companyId": "5734",
+        "projects": [
+            {
+                "title": "Vehicle Control Unit Development",
+                "description": "Development of the control unit to integrate WeSwap batterie(s) with the vehicle with following functions: •Check the number of battery modules present •Connect all battery modules in Parallel •Controls equal current from all battery modules •Allows current through single module in case of error in another module. Research acumen, electronics engg. with knowledge in embedded system, VLSI, programming language (Python, C/C++, Matlab)",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A3",
+                    "A8",
+                    "AA"
+                ]
+            },
+            {
+                "title": "Standards and Regulation Evaluation for Battery Swapping in India",
+                "description": "Evaluation of the existing and upcoming govt. & ARAI standards and regulations regarding 2- & 3- wheelers battery and swapping stations Research acumen, Mechanical and electronics engg. Detailed report which includes ? existing ARAI standards for 2-& 3-wheelers battery ? existing govt. & ARAI regulations for swapping stations ? govt. policies related to subsidies for swap",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "A3",
+                    "A8",
+                    "AA"
+                ]
+            }
+        ],
+        "branches": [
+            "A3",
+            "A8",
+            "AA"
+        ],
+        "new": true
+    },
+    {
+        "name": "WeSwap Mobility Solutions - Marketing(Indore )",
+        "industry": "Electronics",
+        "location": "Indore",
+        "stationId": "6034",
+        "companyId": "5735",
+        "projects": [
+            {
+                "title": "Market exploration",
+                "description": "Dedicated market exploration for WeSwap product Communication, analytical skills, interest in EV sector",
                 "requiredSkills": "-",
                 "broadArea": "-",
                 "preferredCourseReq": "-",
@@ -12240,7 +13729,31 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": true
+    },
+    {
+        "name": "William O Neil - Data Analytics(Bangalore)",
+        "industry": "Finance and Mgmt",
+        "location": "Bangalore",
+        "stationId": "4565",
+        "companyId": "4271",
+        "projects": [
+            {
+                "title": "Product Management and marke??ng of the investment apps",
+                "description": "Product Management and marke??ng of the investment apps",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": false
     },
     {
         "name": "Xarvis Intelligent Systems Lab Pvt Ltd - Non Tech(Pune)",
@@ -12262,7 +13775,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Xarvis Intelligent Systems Lab Pvt Ltd - Tech ,Pune - Software Development(Pune)",
@@ -12284,7 +13798,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Xarvis Intelligent Systems Lab Pvt Ltd - Tech ,Pune - UI Development(Pune)",
@@ -12306,7 +13821,8 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Yashoda Hospitals - Software Development(Hyderabad )",
@@ -12328,7 +13844,8 @@
         ],
         "branches": [
             "A7"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "Yashoda Hospitals- Medical Inclusion in pain department(Hyderabad )",
@@ -12350,7 +13867,31 @@
         ],
         "branches": [
             "Any"
-        ]
+        ],
+        "new": false
+    },
+    {
+        "name": "Yashoda Hospitals- Surgery rostering in anaesthesia department(Hyderabad )",
+        "industry": "Health Care",
+        "location": "Hyderabad",
+        "stationId": "5725",
+        "companyId": "5426",
+        "projects": [
+            {
+                "title": "Physiotherapy Dept",
+                "description": "Anesthesia DeptScheduling and Re-scheduling of Surgeries.Financial ClearanceMapping of equipment to the surgeries and booking only on availabilityModification of Surgeon / Surgery name y the OT CoordinatorFlagging / Popup on the screen of the coordinator&apos;s system once a booking from the ward comes.",
+                "requiredSkills": "-",
+                "broadArea": "-",
+                "preferredCourseReq": "-",
+                "preferredDisciplines": [
+                    "Any"
+                ]
+            }
+        ],
+        "branches": [
+            "Any"
+        ],
+        "new": true
     },
     {
         "name": "Yazaki India Private Ltd.(Bengaluru )",
@@ -12374,13 +13915,15 @@
         "branches": [
             "A3",
             "A4"
-        ]
+        ],
+        "new": false
     },
     {
         "name": "",
         "industry": "",
         "location": "",
         "stationId": null,
-        "companyId": null
+        "companyId": null,
+        "new": false
     }
 ]

@@ -25,7 +25,7 @@ import branchColors from '../constants/branch'
 import industryColors from '../constants/industry'
 
 const Station = (props) => {
-    const { name, location, industry, projects, branches, stationId } = props.data
+    const { name, location, industry, projects, branches, stationId, } = props.data
 
     const { isOpen, onOpen, onClose } = useDisclosure()
 
@@ -77,7 +77,17 @@ const Station = (props) => {
                 }}
             >
                 <Td>{props.idx + 1}</Td>
-                <Td onClick={onOpen}>{name}</Td>
+                <Td onClick={onOpen}>
+                    {   
+                        props.data.new
+                        ?   <Badge colorScheme='green' mb='8px'>New</Badge>
+                        :   null
+                    }
+                    <Box>
+                        {name}
+                    </Box>
+                </Td>
+
                 <Td onClick={onOpen}>
                     {
                         <Badge colorScheme={industryColors[industry]}>{industry}</Badge>
