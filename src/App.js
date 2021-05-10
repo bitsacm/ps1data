@@ -23,7 +23,6 @@ import SearchBar from './components/SearchBar';
 import industryColors from './constants/industry'
 import branchColors from './constants/branch'
 import Logo from './assets/logo.png'
-import { SignalCellularConnectedNoInternet1BarSharp, SignalCellularConnectedNoInternet2BarSharp } from '@material-ui/icons';
 
 const SEARCH_DEBOUNCE_PERIOD = 10
 
