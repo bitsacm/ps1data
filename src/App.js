@@ -23,8 +23,18 @@ import SearchBar from './components/SearchBar';
 import industryColors from './constants/industry'
 import branchColors from './constants/branch'
 import Logo from './assets/logo.png'
+import { SignalCellularConnectedNoInternet1BarSharp, SignalCellularConnectedNoInternet2BarSharp } from '@material-ui/icons';
 
 const SEARCH_DEBOUNCE_PERIOD = 10
+
+var data1=[];
+
+for(var i =0; i<data.length; i++){
+    if(data[i].new === true){
+        data1.push(data[i]);
+    }
+}
+
 
 data.pop()
 
@@ -156,6 +166,19 @@ Branches: ${proj.preferredDisciplines.join(', ')}\n\n\n
         }
     }
 
+    const [dis1, setDis1]= useState(true);
+    const [dis2, setDis2]= useState(false);
+    const setNew = () =>{
+        setStations(data1);
+        setDis1(false);
+        setDis2(true);
+    }
+
+    const setBack = () =>{
+        setStations(data);
+        setDis1(true);
+        setDis2(false);
+}
 
 
     return (
@@ -218,6 +241,12 @@ Branches: ${proj.preferredDisciplines.join(', ')}\n\n\n
                         <SearchBar
                             onSearch={onSearchValueChange}
                         />
+                        <Button display={dis1?"block":"none"} onClick={setNew} marginLeft="10px">
+                            View new
+                        </Button>
+                        <Button display={dis2?"block":"none"} onClick={setBack} marginLeft="10px">
+                            View back
+                        </Button>
                         <Popover
                             placement='right-end'
                         >
